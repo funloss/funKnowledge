@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "世界历史/绥靖时代.md",
+                "file": "世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "绥靖时代"
+              "title": "命运攸关的抉择——1940-1941年间改变世界的十个决策"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "世界历史/绥靖时代.md",
+                "file": "哲学/生存哲学——雅斯贝斯.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "绥靖时代 的反向链接列表"
+              "title": "生存哲学——雅斯贝斯 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "世界历史/绥靖时代.md",
+                "file": "哲学/生存哲学——雅斯贝斯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "绥靖时代 的出链列表"
+              "title": "生存哲学——雅斯贝斯 的出链列表"
             }
           },
           {
@@ -171,18 +171,25 @@
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
   "active": "67fc0e0ecd17fd76",
   "lastOpenFiles": [
-    "语言学/语言学的邀请.md",
-    "哲学/时代的精神状况.md",
-    "世界历史/绥靖时代.md",
-    "世界历史/和平戛然而止.md",
+    "世界历史/和平戛然而止 ：通往1914年之路.md",
+    "世界历史/绥靖时代——希特勒、张伯伦、丘吉尔与通往战争之路.md",
     "世界历史/希特勒传.md",
+    "世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
+    "哲学/生存哲学——雅斯贝斯.md",
+    "哲学/时代的精神状况——雅斯贝斯.md",
+    "中国历史/中国历代政治得失——钱穆.md",
+    "中国历史/中国大历史——黄仁宇.md",
+    "中国历史/天朝的崩溃——茅海建.md",
+    "中国历史/万历十五年——黄仁宇.md",
+    "语言学/语言学的邀请.md",
+    "文学作品/黑塞/悉达多.md",
+    "文学作品/黑塞",
     "2024-12-08.md",
     "未命名 1.canvas",
     "未命名.canvas",
