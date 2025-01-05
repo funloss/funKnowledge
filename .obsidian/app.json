@@ -1,4 +1,6 @@
 {
   "autoConvertHtml": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": false,
+  "readableLineLength": false
 }
