@@ -23,10 +23,15 @@ if __name__ == "__main__":
             bookMap[cateName] = []
         bookMap[cateName].append(bookName)
 
-    print(bookMap)
+    # print(bookMap)
 
     with open(file_path, 'w') as file:
-        file.write('# 书籍目录\n')
+        file.write('# 书籍类别统计：\n')
+        for i in bookMap.keys():
+            file.write(i + ": " + str(len(bookMap[i])) + "本\n\n")
+        file.write('\n')
+
+        file.write('# 书籍目录明细：\n')
         file.write('\n')
         for i in bookMap.keys():
             file.write('## ' +  i + "\n")
