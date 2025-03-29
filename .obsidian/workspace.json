@@ -179,8 +179,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d8c4f4263aa8f518",
+  "active": "eeeb2e4e29a62c51",
   "lastOpenFiles": [
+    "README.md",
+    "ExtractReadMe.py",
     "未命名.md",
     "读书/世界历史/希特勒传/《希特勒传》读书笔记.md",
     "读书/世界历史/希特勒传/希特勒传.md",
@@ -210,7 +212,6 @@
     "大模型/技术报告/Kimi k1.5：基于LLM的强化学习扩展研究.md",
     "大模型/技术报告/deepseek R1：通过强化学习提升LLM的推理能力.md",
     "大模型/基础知识/Self Attention 代码.md",
-    "大模型/技术报告/deepseek v3.md",
     "Pasted image 20250309165327.png",
     "Pasted image 20250309164034.png",
     "Pasted image 20250309150856.png",
@@ -220,7 +221,6 @@
     "读书",
     "大模型",
     "读书/世界历史/第三帝国三部曲",
-    "读书/世界历史/太平洋三部曲",
     "未命名 1.canvas",
     "未命名.canvas",
     "Untitled.canvas"
