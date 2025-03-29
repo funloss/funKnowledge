@@ -26,7 +26,7 @@ if __name__ == "__main__":
     print(bookMap)
 
     with open(file_path, 'w') as file:
-        file.write('# 书籍目录。\n')
+        file.write('# 书籍目录\n')
         file.write('\n')
         for i in bookMap.keys():
             file.write('## ' +  i + "\n")
