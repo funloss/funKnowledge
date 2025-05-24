@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "百面大模型"
             }
+          },
+          {
+            "id": "4c66ab9ab010a118",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大模型和推荐系统/百面大模型.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "百面大模型"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +181,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8ac523a957ff92d",
+  "active": "eeeb2e4e29a62c51",
   "lastOpenFiles": [
     "读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md",
     "大模型和推荐系统/百面大模型.md",
