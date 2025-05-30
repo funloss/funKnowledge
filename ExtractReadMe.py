@@ -27,18 +27,22 @@ if __name__ == "__main__":
 
     with open(file_path, 'w') as file:
         file.write('# 书籍类别统计：\n')
+        file.write('| 书籍分类 | 数目|' + "\n")
+        file.write('|----|----|' + "\n")
         for i in bookMap.keys():
-            file.write(i + ": " + str(len(bookMap[i])) + "本\n\n")
+            file.write('|' + i + " | " + str(len(bookMap[i])) + "本" + " |\n")
         file.write('\n')
 
         file.write('# 书籍目录明细：\n')
         file.write('\n')
         for i in bookMap.keys():
             file.write('## ' +  i + "\n")
+            file.write('| 书籍名称 | 豆瓣链接|'+ "\n")
+            file.write('|----|----|'+ "\n")
             for j in bookMap[i]:
                 j = str.replace(j, ".md", "")
-                file.write(j + "\n")
-                file.write("\n")
+                file.write("| [[" + j + " ]]| xxx |"  + "\n")
+                # file.write("\n")
         file.write("\n")
 
         file.close()

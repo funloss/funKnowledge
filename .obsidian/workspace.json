@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9e10844998db6e94",
+        "id": "a5b7474f454c1701",
         "type": "tabs",
         "children": [
           {
-            "id": "f8ac523a957ff92d",
+            "id": "04d2848f867ca4b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大模型和推荐系统/百面大模型.md",
+                "file": "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "百面大模型"
-            }
-          },
-          {
-            "id": "4c66ab9ab010a118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "大模型和推荐系统/百面大模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "百面大模型"
+              "title": "命运攸关的抉择——1940-1941年间改变世界的十个决策"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "大模型/技术报告/deepseek v3.md",
+                "file": "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "deepseek v3 的反向链接列表"
+              "title": "命运攸关的抉择——1940-1941年间改变世界的十个决策 的反向链接列表"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学/生存哲学——雅斯贝斯.md",
+                "file": "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "生存哲学——雅斯贝斯 的出链列表"
+              "title": "命运攸关的抉择——1940-1941年间改变世界的十个决策 的出链列表"
             }
           },
           {
@@ -143,10 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -155,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大模型和推荐系统/百面大模型.md",
+                "file": "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "百面大模型 的大纲"
+              "title": "命运攸关的抉择——1940-1941年间改变世界的十个决策 的大纲"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,33 +170,35 @@
   },
   "active": "eeeb2e4e29a62c51",
   "lastOpenFiles": [
-    "读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md",
+    "README.md",
+    "读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
+    "模板/读书笔记模板.md",
+    "读书/世界历史/未命名.md",
+    "读书/中国历史/中国大历史——黄仁宇.md",
+    "模板",
+    "读书/哲学/生存哲学——雅斯贝斯.md",
+    "未命名.canvas",
+    "对.md",
     "大模型和推荐系统/百面大模型.md",
+    "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
+    "读书/世界历史/1941：德国走向失败的那一年.md",
+    "读书/中国历史/显微镜下的大明.md",
+    "读书/世界历史/希特勒传/《希特勒传》读书笔记.md",
+    "读书/中国历史/天朝的崩溃——茅海建.md",
+    "读书/中国历史/他改变了中国：江泽民传.md",
+    "读书/文学作品/黑塞/德米安.md",
+    "读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
+    "读书/文学作品/国内/九诗心.md",
+    "读书/文学作品/东北文学/一团坚冰.md",
+    "读书/文学作品/东北文学/缓步.md",
+    "读书/世界历史/第三帝国三部曲/当权的第三帝国.md",
+    "读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md",
     "大模型和推荐系统",
     "读书/哲学/人类知识演化史.md",
-    "README.md",
     "读书/中国历史/邓小平时代.md",
     "读书/中国历史/弃长安.md",
-    "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
     "读书/世界历史/和平戛然而止 ：通往1914年之路.md",
     "读书/世界历史/愚蠢的核弹.md",
-    "读书/世界历史/故国曾在：我的巴勒斯坦人生.md",
-    "读书/世界历史/1941：德国走向失败的那一年.md",
-    "读书/世界历史/恐惧与自由.md",
-    "读书/世界历史/野蛮大陆：第二次世界大战后的欧洲.md",
-    "读书/世界历史/切尔诺贝利：一部悲剧史.md",
-    "读书/世界历史/二手时间.md",
-    "读书/世界历史/第三帝国三部曲/第三帝国的到来.md",
-    "读书/世界历史/最寒冷的冬天.md",
-    "读书/心理学和社会学/自私的基因.md",
-    "读书/心理学和社会学/包刚升政治学讲义.md",
-    "读书/文学作品/刀锋.md",
-    "读书/文学作品/百年孤独.md",
-    "读书/文学作品/伊甸之东.md",
-    "读书/文学作品/国内/白鹿原.md",
-    "读书/文学作品/白鹿原.md",
-    "读书/文学作品/国内/额尔古纳河右岸.md",
-    "读书/文学作品/陀思妥耶夫斯基/地下室手记.md",
     "tmp.py",
     "读书/心理学和社会学",
     "AllInOneFile.py",
@@ -221,10 +210,8 @@
     "Pasted image 20250309165327.png",
     "Pasted image 20250309164034.png",
     "Pasted image 20250309150856.png",
-    "大模型/技术报告",
     "Pasted image 20250302144438.png",
     "未命名 1.canvas",
-    "未命名.canvas",
     "Untitled.canvas"
   ]
 }
