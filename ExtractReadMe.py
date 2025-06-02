@@ -16,14 +16,22 @@ if __name__ == "__main__":
     all_filenames = get_all_filenames(folder_path)
 
     bookMap = {}
+    bookLinkMap = {}
+
     for filename in all_filenames:
         cateName = filename.split("/")[2]
-        bookName = filename.split("/")[-1]
+        bookName = filename.split("/")[-1].replace(".md", "")
         if cateName not in bookMap.keys():
             bookMap[cateName] = []
         bookMap[cateName].append(bookName)
 
-    # print(bookMap)
+        f = open(filename, "r")
+        line = f.readline()
+        line = line.replace("豆瓣链接：", "")
+        line = line.replace("\n", "")
+        bookLinkMap[bookName] = line
+
+    # print(bookLinkMap)
 
     with open(file_path, 'w') as file:
         file.write('# 书籍类别统计：\n')
@@ -40,8 +48,7 @@ if __name__ == "__main__":
             file.write('| 书籍名称 | 豆瓣链接|'+ "\n")
             file.write('|----|----|'+ "\n")
             for j in bookMap[i]:
-                j = str.replace(j, ".md", "")
-                file.write("| [[" + j + " ]]| xxx |"  + "\n")
+                file.write("| [[" + j + " ]]| "+ bookLinkMap[j] + " |"  + "\n")
                 # file.write("\n")
         file.write("\n")
 

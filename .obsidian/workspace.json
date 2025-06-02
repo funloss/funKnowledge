@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
+                "file": "读书/世界历史/最寒冷的冬天.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "命运攸关的抉择——1940-1941年间改变世界的十个决策"
+              "title": "最寒冷的冬天"
             }
           }
         ]
@@ -94,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
+                "file": "读书/世界历史/最寒冷的冬天.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "命运攸关的抉择——1940-1941年间改变世界的十个决策 的反向链接列表"
+              "title": "最寒冷的冬天 的反向链接列表"
             }
           },
           {
@@ -113,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
+                "file": "读书/世界历史/最寒冷的冬天.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "命运攸关的抉择——1940-1941年间改变世界的十个决策 的出链列表"
+              "title": "最寒冷的冬天 的出链列表"
             }
           },
           {
@@ -142,22 +152,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
+                "file": "读书/世界历史/最寒冷的冬天.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "命运攸关的抉择——1940-1941年间改变世界的十个决策 的大纲"
+              "title": "最寒冷的冬天 的大纲"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,37 +176,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eeeb2e4e29a62c51",
+  "active": "04d2848f867ca4b5",
   "lastOpenFiles": [
-    "README.md",
-    "读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
-    "模板/读书笔记模板.md",
-    "读书/世界历史/未命名.md",
-    "读书/中国历史/中国大历史——黄仁宇.md",
-    "模板",
-    "读书/哲学/生存哲学——雅斯贝斯.md",
-    "未命名.canvas",
-    "对.md",
-    "大模型和推荐系统/百面大模型.md",
+    "BookPrompt.md",
+    "读书/世界历史/最寒冷的冬天.md",
+    "读书/世界历史/苏联解体亲历记.md",
     "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
-    "读书/世界历史/1941：德国走向失败的那一年.md",
-    "读书/中国历史/显微镜下的大明.md",
-    "读书/世界历史/希特勒传/《希特勒传》读书笔记.md",
-    "读书/中国历史/天朝的崩溃——茅海建.md",
-    "读书/中国历史/他改变了中国：江泽民传.md",
-    "读书/文学作品/黑塞/德米安.md",
+    "读书/中国历史/太后西奔.md",
+    "读书/文学作品/国内/一句顶一万句.md",
     "读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
-    "读书/文学作品/国内/九诗心.md",
-    "读书/文学作品/东北文学/一团坚冰.md",
-    "读书/文学作品/东北文学/缓步.md",
-    "读书/世界历史/第三帝国三部曲/当权的第三帝国.md",
+    "读书/哲学/时代的精神状况——雅斯贝斯.md",
+    "读书/世界历史/1941：德国走向失败的那一年.md",
+    "读书/世界历史/切尔诺贝利：一部悲剧史.md",
+    "README.md",
+    "FormatPrompt.py",
     "读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md",
-    "大模型和推荐系统",
-    "读书/哲学/人类知识演化史.md",
+    "读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
+    "读书/心理学和社会学/思考，快与慢.md",
+    "读书/心理学和社会学/枪炮病菌和钢铁.md",
+    "读书/中国历史/显微镜下的大明.md",
     "读书/中国历史/邓小平时代.md",
+    "读书/中国历史/他改变了中国：江泽民传.md",
+    "读书/中国历史/巫蛊乱长安.md",
+    "读书/中国历史/大变局——晚清改革五十年.md",
+    "读书/中国历史/中国历代政治得失——钱穆.md",
+    "读书/中国历史/暮日耀光 ： 张居正与明代中后期政局.md",
+    "读书/中国历史/康熙的红票.md",
+    "读书/中国历史/五四运动史——周策纵.md",
     "读书/中国历史/弃长安.md",
-    "读书/世界历史/和平戛然而止 ：通往1914年之路.md",
-    "读书/世界历史/愚蠢的核弹.md",
+    "读书/中国历史/南明史——顾诚.md",
+    "模板",
+    "未命名.canvas",
+    "大模型和推荐系统",
     "tmp.py",
     "读书/心理学和社会学",
     "AllInOneFile.py",
@@ -206,7 +215,6 @@
     "读书/文学作品/东北文学",
     "读书/文学作品/国内",
     "读书/文学作品/陀思妥耶夫斯基",
-    "读书/世界历史/希特勒传",
     "Pasted image 20250309165327.png",
     "Pasted image 20250309164034.png",
     "Pasted image 20250309150856.png",
