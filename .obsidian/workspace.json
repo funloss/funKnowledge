@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a5b7474f454c1701",
+        "id": "833900077d521224",
         "type": "tabs",
         "children": [
           {
-            "id": "04d2848f867ca4b5",
+            "id": "e1c2b151b25cc780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/世界历史/最寒冷的冬天.md",
+                "file": "读书/世界历史/太平洋三部曲/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "最寒冷的冬天"
+              "title": "燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书/世界历史/最寒冷的冬天.md",
+                "file": "读书/世界历史/太平洋三部曲/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "最寒冷的冬天 的反向链接列表"
+              "title": "燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役 的反向链接列表"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书/世界历史/最寒冷的冬天.md",
+                "file": "BookPrompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "最寒冷的冬天 的出链列表"
+              "title": "BookPrompt 的出链列表"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书/世界历史/最寒冷的冬天.md",
+                "file": "BookPrompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "最寒冷的冬天 的大纲"
+              "title": "BookPrompt 的大纲"
             }
           }
         ]
@@ -176,35 +176,84 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "04d2848f867ca4b5",
+  "floating": {
+    "id": "758a1423ef5accd2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "23b9b09af4950ae2",
+        "type": "window",
+        "children": [
+          {
+            "id": "6a1d12317bd912d8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e582a8d4812ee3f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BookPrompt.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "BookPrompt"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 582,
+        "y": 222,
+        "width": 978,
+        "height": 760,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e1c2b151b25cc780",
   "lastOpenFiles": [
+    "读书/世界历史/太平洋三部曲/征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役.md",
     "BookPrompt.md",
+    "读书/世界历史/太平洋三部曲/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.md",
+    "读书/世界历史/太平洋三部曲/诸神的黄昏——1944—1945，从莱特湾战役到日本投降.md",
+    "读书/世界历史/第三帝国三部曲/第三帝国的到来.md",
+    "读书/世界历史/第三帝国三部曲/当权的第三帝国.md",
+    "读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
+    "读书/世界历史/希特勒传/希特勒传.md",
+    "读书/世界历史/野蛮大陆：第二次世界大战后的欧洲.md",
+    "读书/世界历史/和平戛然而止 ：通往1914年之路.md",
+    "读书/世界历史/二手时间.md",
     "读书/世界历史/最寒冷的冬天.md",
     "读书/世界历史/苏联解体亲历记.md",
-    "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
-    "读书/中国历史/太后西奔.md",
-    "读书/文学作品/国内/一句顶一万句.md",
-    "读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
-    "读书/哲学/时代的精神状况——雅斯贝斯.md",
     "读书/世界历史/1941：德国走向失败的那一年.md",
+    "读书/世界历史/愚蠢的核弹.md",
+    "模板/读书笔记with Prompt.md",
     "读书/世界历史/切尔诺贝利：一部悲剧史.md",
-    "README.md",
-    "FormatPrompt.py",
+    "读书/世界历史/绥靖时代——希特勒、张伯伦、丘吉尔与通往战争之路.md",
+    "读书/世界历史/恐惧与自由.md",
+    "读书/世界历史/故国曾在：我的巴勒斯坦人生.md",
     "读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md",
-    "读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
+    "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
+    "读书/世界历史/1945年的六个月.md",
     "读书/心理学和社会学/思考，快与慢.md",
     "读书/心理学和社会学/枪炮病菌和钢铁.md",
-    "读书/中国历史/显微镜下的大明.md",
-    "读书/中国历史/邓小平时代.md",
-    "读书/中国历史/他改变了中国：江泽民传.md",
-    "读书/中国历史/巫蛊乱长安.md",
-    "读书/中国历史/大变局——晚清改革五十年.md",
-    "读书/中国历史/中国历代政治得失——钱穆.md",
-    "读书/中国历史/暮日耀光 ： 张居正与明代中后期政局.md",
-    "读书/中国历史/康熙的红票.md",
-    "读书/中国历史/五四运动史——周策纵.md",
-    "读书/中国历史/弃长安.md",
-    "读书/中国历史/南明史——顾诚.md",
+    "读书/心理学和社会学/自私的基因.md",
+    "FormatPrompt.py",
     "模板",
     "未命名.canvas",
     "大模型和推荐系统",
