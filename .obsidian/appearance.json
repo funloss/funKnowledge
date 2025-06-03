@@ -1,4 +1,7 @@
 {
-  "accentColor": "#ecb7f0",
-  "theme": "moonstone"
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "nativeMenus": true,
+  "translucency": false
 }

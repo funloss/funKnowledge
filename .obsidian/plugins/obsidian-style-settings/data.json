@@ -1,0 +1,14 @@
+{
+  "things-style@@h1-color": "#A32121",
+  "things-style@@h6-color": "#8D197D",
+  "things-style@@h2-color": "#5FA189",
+  "things-style@@mobile-black-background": false,
+  "things-style@@active-line": false,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
+  "maple-workspace@@titlebar-colorful": true,
+  "maple-workspace@@bg-enable": "bg-static",
+  "maple-workspace@@explorer-nav-decoration": false,
+  "maple-basic@@color-use-custom": false,
+  "minimal-style@@canvas-dot-pattern@@light": "#2BA376",
+  "minimal-style@@bold-color@@light": "#2F93C3"
+}
