@@ -4,7 +4,7 @@
 |心理学和社会学 | 5本 |
 |世界历史 | 22本 |
 |哲学 | 8本 |
-|文学作品 | 20本 |
+|文学作品 | 21本 |
 |中国历史 | 15本 |
 
 # 书籍目录明细：
@@ -75,6 +75,7 @@
 | [[德米安 ]]| https://book.douban.com/subject/35060088/ |
 | [[在轮下 ]]| https://book.douban.com/subject/35438728/ |
 | [[悉达多 ]]| https://book.douban.com/subject/26980487/ |
+| [[克林索尔的最后夏天 ]]| https://book.douban.com/subject/30389968/ |
 | [[荒原狼 ]]| https://book.douban.com/subject/4908883/ |
 ## 中国历史
 | 书籍名称 | 豆瓣链接|

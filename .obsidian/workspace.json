@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mermaid/chinese_history.md",
+                "file": "读书/文学作品/国外/斯通纳.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "chinese_history"
+              "title": "斯通纳"
             }
           },
           {
-            "id": "f15940925e1a5a35",
+            "id": "79d4df8c2e3e976e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/世界历史/太平洋三部曲/征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役.md",
+                "file": "读书/文学作品/黑塞/克林索尔的最后夏天.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役"
+              "title": "克林索尔的最后夏天"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,17 +176,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md",
+                "file": "读书/文学作品/国外/斯通纳.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "企鹅欧洲史·地狱之行1914-1949 的大纲"
+              "title": "斯通纳 的大纲"
+            }
+          },
+          {
+            "id": "7d8445d5299b60a6",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,45 +213,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "f15940925e1a5a35",
+  "active": "e1c2b151b25cc780",
   "lastOpenFiles": [
-    "读书/世界历史/太平洋三部曲/诸神的黄昏——1944—1945，从莱特湾战役到日本投降.md",
-    "读书/世界历史/太平洋三部曲/征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役.md",
-    "读书/世界历史/太平洋三部曲/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.md",
-    "读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md",
-    "读书/世界历史/野蛮大陆：第二次世界大战后的欧洲.md",
-    "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
-    "BookPrompt.md",
-    "Mermaid/chinese_history.md",
-    "模板/读书笔记with Prompt.md",
-    "模板/读书笔记模板.md",
-    "读书/世界历史/1941：德国走向失败的那一年.md",
-    "读书/世界历史/故国曾在：我的巴勒斯坦人生.md",
-    "README.md",
-    "读书/世界历史/愚蠢的核弹.md",
-    "大模型和推荐系统/百面大模型.md",
-    "读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
-    "读书/世界历史/第三帝国三部曲/第三帝国的到来.md",
-    "读书/中国历史/大变局——晚清改革五十年.md",
-    "读书/中国历史/邓小平时代.md",
-    "读书/中国历史/天朝的崩溃——茅海建.md",
+    "Mermaid/other.md",
+    "读书/文学作品/国外/斯通纳.md",
+    "读书/文学作品/东北文学/仙症.md",
+    "读书/文学作品/东北文学/一团坚冰.md",
+    "读书/文学作品/东北文学/黄昏后.md",
+    "读书/文学作品/东北文学/平原上的摩西.md",
+    "读书/文学作品/东北文学/缓步.md",
+    "读书/文学作品/东北文学/冬泳.md",
+    "读书/文学作品/东北文学/逍遥游.md",
+    "读书/文学作品/黑塞/悉达多.md",
+    "读书/文学作品/黑塞/在轮下.md",
+    "读书/文学作品/黑塞/荒原狼.md",
+    "读书/文学作品/黑塞/克林索尔的最后夏天.md",
+    "读书/文学作品/黑塞/德米安.md",
     "读书/中国历史/五四运动史——周策纵.md",
+    "读书/中国历史/大变局——晚清改革五十年.md",
+    "读书/中国历史/南明史——顾诚.md",
+    "读书/中国历史/显微镜下的大明.md",
+    "读书/中国历史/他改变了中国：江泽民传.md",
+    "读书/中国历史/万历十五年——黄仁宇.md",
+    "读书/中国历史/中国大历史——黄仁宇.md",
+    "读书/中国历史/太后西奔.md",
+    "读书/中国历史/暮日耀光 ： 张居正与明代中后期政局.md",
+    "读书/中国历史/弃长安.md",
     "读书/中国历史/巫蛊乱长安.md",
     "读书/中国历史/康熙的红票.md",
-    "读书/中国历史/弃长安.md",
-    "读书/中国历史/中国历代政治得失——钱穆.md",
-    "读书/中国历史/暮日耀光 ： 张居正与明代中后期政局.md",
+    "未命名.canvas",
+    "读书/文学作品/国外",
+    "components/view/test.components",
+    "components/view",
+    "components",
     "Mermaid/chinese_history",
     "Mermaid",
     "GenerateMermaid.py",
     "FormatPrompt.py",
     "模板",
-    "未命名.canvas",
     "大模型和推荐系统",
-    "tmp.py",
-    "读书/心理学和社会学",
-    "AllInOneFile.py",
-    "ExtractReadMe.py",
     "Pasted image 20250309165327.png",
     "Pasted image 20250309164034.png",
     "Pasted image 20250309150856.png",

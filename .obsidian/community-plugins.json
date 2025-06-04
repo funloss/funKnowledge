@@ -2,5 +2,7 @@
   "obsidian-style-settings",
   "obsidian-minimal-settings",
   "dataview",
-  "mermaid-tools"
+  "mermaid-tools",
+  "contribution-graph",
+  "components"
 ]
