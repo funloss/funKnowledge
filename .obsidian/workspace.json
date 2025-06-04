@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/文学作品/国外/斯通纳.md",
+                "file": "读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "斯通纳"
+              "title": "卡拉马佐夫兄弟"
             }
           },
           {
@@ -176,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书/文学作品/国外/斯通纳.md",
+                "file": "读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "斯通纳 的大纲"
+              "title": "卡拉马佐夫兄弟 的大纲"
             }
           },
           {
@@ -215,8 +215,8 @@
   },
   "active": "e1c2b151b25cc780",
   "lastOpenFiles": [
-    "Mermaid/other.md",
     "读书/文学作品/国外/斯通纳.md",
+    "Mermaid/other.md",
     "读书/文学作品/东北文学/仙症.md",
     "读书/文学作品/东北文学/一团坚冰.md",
     "读书/文学作品/东北文学/黄昏后.md",
