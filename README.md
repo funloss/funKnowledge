@@ -4,7 +4,7 @@
 |心理学和社会学 | 5本 |
 |世界历史 | 22本 |
 |哲学 | 8本 |
-|文学作品 | 21本 |
+|文学作品 | 22本 |
 |中国历史 | 15本 |
 
 # 书籍目录明细：
@@ -29,13 +29,13 @@
 | [[切尔诺贝利：一部悲剧史 ]]| https://book.douban.com/subject/35081166/ |
 | [[愚蠢的核弹 ]]| https://book.douban.com/subject/36480234/ |
 | [[1941：德国走向失败的那一年 ]]| https://book.douban.com/subject/35560969/ |
+| [[希特勒传 ]]| https://book.douban.com/subject/30140243/ |
+| [[命令已经执行 ]]| https://book.douban.com/subject/36413886/ |
 | [[苏联解体亲历记 ]]| https://book.douban.com/subject/30246943/ |
 | [[二手时间 ]]| https://book.douban.com/subject/26704403/ |
 | [[和平戛然而止 ：通往1914年之路 ]]| https://book.douban.com/subject/36089295/ |
 | [[最寒冷的冬天 ]]| https://book.douban.com/subject/27102845/ |
 | [[野蛮大陆：第二次世界大战后的欧洲 ]]| https://book.douban.com/subject/26354440/ |
-| [[希特勒传 ]]| https://book.douban.com/subject/30140243/ |
-| [[《希特勒传》读书笔记 ]]| https://book.douban.com/subject/30140243/ |
 | [[战时的第三帝国 ]]| https://book.douban.com/subject/35134992/ |
 | [[当权的第三帝国 ]]| https://book.douban.com/subject/34925415/ |
 | [[第三帝国的到来 ]]| https://book.douban.com/subject/34928222/ |
@@ -56,6 +56,7 @@
 ## 文学作品
 | 书籍名称 | 豆瓣链接|
 |----|----|
+| [[斯通纳 ]]| https://book.douban.com/subject/26425831/ |
 | [[百年孤独 ]]| https://book.douban.com/subject/6082808/ |
 | [[伊甸之东 ]]| https://book.douban.com/subject/36710568/ |
 | [[刀锋 ]]| https://book.douban.com/subject/35197280/ |
