@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/哲学/苏格拉底的申辩.md",
+                "file": "读书/首页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "苏格拉底的申辩"
+              "title": "首页"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书/哲学/苏格拉底的申辩.md",
+                "file": "读书/首页.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 苏格拉底的申辩"
+              "title": "Backlinks for 首页"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书/哲学/苏格拉底的申辩.md",
+                "file": "读书/首页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 苏格拉底的申辩"
+              "title": "Outgoing links from 首页"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书/哲学/苏格拉底的申辩.md",
+                "file": "读书/首页.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 苏格拉底的申辩"
+              "title": "Outline of 首页"
             }
           },
           {
@@ -205,6 +205,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "读书/世界历史/1941：德国走向失败的那一年.md",
     "读书/首页.md",
     "读书/哲学/苏格拉底的申辩.md",
     "README.md",
@@ -216,7 +217,6 @@
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Make shorter.md",
-    "读书/世界历史/1941：德国走向失败的那一年.md",
     "输出/中国历史的兴衰轮回.md",
     "读书/世界历史/零年：1945·现代世界诞生的时刻.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
