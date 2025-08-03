@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/哲学/汉娜·阿伦特：爱与恶.md",
+                "file": "读书/哲学/苏格拉底的申辩.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "汉娜·阿伦特：爱与恶"
+              "title": "苏格拉底的申辩"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "输出/德国二战战略演变.md",
+                "file": "读书/哲学/苏格拉底的申辩.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 德国二战战略演变"
+              "title": "Backlinks for 苏格拉底的申辩"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "输出/德国二战战略演变.md",
+                "file": "读书/哲学/苏格拉底的申辩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 德国二战战略演变"
+              "title": "Outgoing links from 苏格拉底的申辩"
             }
           },
           {
@@ -152,23 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "输出/德国二战战略演变.md",
+                "file": "读书/哲学/苏格拉底的申辩.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 德国二战战略演变"
-            }
-          },
-          {
-            "id": "04501092e1ee08be",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "title": "Outline of 苏格拉底的申辩"
             }
           },
           {
@@ -180,13 +170,24 @@
               "icon": "trident-custom",
               "title": "Mermaid Toolbar"
             }
+          },
+          {
+            "id": "508fa5ad5ba61e02",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 661.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,43 +199,45 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "读书/首页.md",
-    "读书/哲学/汉娜·阿伦特：爱与恶.md",
-    "读书/世界历史/零年：1945·现代世界诞生的时刻.md",
-    "模板/读书笔记with Prompt.md",
-    "BookPrompt.md",
-    "读书/世界历史/君临天下：世界历史上的皇帝.md",
-    "模板/读书笔记模板.md",
-    "输出/德国二战战略演变.md",
-    "读书/世界历史/奥斯维辛与现代性.png",
-    "输出/中国历史的兴衰轮回.md",
-    "输出/奥斯维辛与现代性.md",
-    "读书/心理学和社会学/思考，快与慢.md",
-    "输出",
+    "读书/哲学/苏格拉底的申辩.md",
     "README.md",
+    "BookPrompt.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "读书/世界历史/1941：德国走向失败的那一年.md",
+    "输出/中国历史的兴衰轮回.md",
+    "读书/世界历史/零年：1945·现代世界诞生的时刻.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts",
+    "读书/世界历史/恐惧与自由.md",
+    "读书/文学作品/国内/白鹿原.md",
+    "输出/德国二战战略演变.md",
+    "输出/奥斯维辛与现代性.md",
+    "读书/哲学/汉娜·阿伦特：爱与恶.md",
+    "模板/读书笔记with Prompt.md",
+    "读书/世界历史/奥斯维辛与现代性.png",
+    "输出",
     "GenerateTags.py",
-    "读书/中国历史/苏东坡传.md",
-    "读书/中国历史/孤星之旅：苏东坡传.md",
     "Untitled 1.canvas",
-    "Untitled Kanban.md",
     "Untitled.canvas",
-    "读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
-    "读书/中国历史/夹缝中的总督：曾国藩的五次生死局.md",
-    "读书/世界历史/奥斯维辛：一部历史.md",
-    "读书/哲学/洞穴奇案.md",
-    "读书/心理学和社会学/刘擎西方现代思想讲义.md",
-    "Excalidraw/首页 2025-07-06 09.02.53.excalidraw.md",
-    "asdasd.md",
-    "读书/文学作品/东北文学/一团坚冰.md",
     "Excalidraw",
-    "读书/哲学/西方哲学史（第9版）.md",
-    "读书/哲学/语言学的邀请.md",
-    "读书/文学作品/黑塞/克林索尔的最后夏天.md",
     "assets/s34941132.jpg",
     "book",
     "assets",
@@ -243,7 +246,6 @@
     "components/view/test.components",
     "components/view",
     "components",
-    "Mermaid/chinese_history",
     "Pasted image 20250309165327.png",
     "Pasted image 20250309164034.png",
     "Pasted image 20250309150856.png",
