@@ -22,6 +22,8 @@ if __name__ == "__main__":
         cateName = filename.split("/")[2]
         bookName = filename.split("/")[-1].replace(".md", "")
         if cateName not in bookMap.keys():
+            if "首页" in cateName:
+                continue
             bookMap[cateName] = []
         bookMap[cateName].append(bookName)
 

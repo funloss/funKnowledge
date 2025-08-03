@@ -2,10 +2,10 @@
 | 书籍分类 | 数目|
 |----|----|
 |心理学和社会学 | 5本 |
-|世界历史 | 22本 |
-|哲学 | 8本 |
-|文学作品 | 22本 |
-|中国历史 | 15本 |
+|世界历史 | 26本 |
+|哲学 | 9本 |
+|文学作品 | 24本 |
+|中国历史 | 18本 |
 
 # 书籍目录明细：
 
@@ -29,11 +29,15 @@
 | [[切尔诺贝利：一部悲剧史 ]]| https://book.douban.com/subject/35081166/ |
 | [[愚蠢的核弹 ]]| https://book.douban.com/subject/36480234/ |
 | [[1941：德国走向失败的那一年 ]]| https://book.douban.com/subject/35560969/ |
+| [[君临天下：世界历史上的皇帝 ]]| https://book.douban.com/subject/37336533/ |
 | [[希特勒传 ]]| https://book.douban.com/subject/30140243/ |
 | [[命令已经执行 ]]| https://book.douban.com/subject/36413886/ |
+| [[第三帝国的兴亡 ]]| https://book.douban.com/subject/34907824/ |
 | [[苏联解体亲历记 ]]| https://book.douban.com/subject/30246943/ |
 | [[二手时间 ]]| https://book.douban.com/subject/26704403/ |
 | [[和平戛然而止 ：通往1914年之路 ]]| https://book.douban.com/subject/36089295/ |
+| [[奥斯维辛：一部历史 ]]| https://book.douban.com/subject/26861418/ |
+| [[零年：1945·现代世界诞生的时刻 ]]| https://book.douban.com/subject/34663162/ |
 | [[最寒冷的冬天 ]]| https://book.douban.com/subject/27102845/ |
 | [[野蛮大陆：第二次世界大战后的欧洲 ]]| https://book.douban.com/subject/26354440/ |
 | [[战时的第三帝国 ]]| https://book.douban.com/subject/35134992/ |
@@ -50,6 +54,7 @@
 | [[人类知识演化史 ]]| https://book.douban.com/subject/36638525/ |
 | [[洞穴奇案 ]]| https://book.douban.com/subject/35183164/ |
 | [[西方哲学史（第9版） ]]| https://book.douban.com/subject/34447865/ |
+| [[汉娜·阿伦特：爱与恶 ]]| https://book.douban.com/subject/36467397/ |
 | [[时代的精神状况——雅斯贝斯 ]]| https://book.douban.com/subject/23774527/ |
 | [[世界是如何思考的 ]]| https://book.douban.com/subject/35853017/ |
 | [[语言学的邀请 ]]| https://book.douban.com/subject/26431646/ |
@@ -61,6 +66,7 @@
 | [[伊甸之东 ]]| https://book.douban.com/subject/36710568/ |
 | [[刀锋 ]]| https://book.douban.com/subject/35197280/ |
 | [[卡拉马佐夫兄弟 ]]| https://book.douban.com/subject/25887924/ |
+| [[罪与罚 ]]| https://book.douban.com/subject/25887912/ |
 | [[地下室手记 ]]| https://book.douban.com/subject/34990839/ |
 | [[仙症 ]]| https://book.douban.com/subject/35216559/ |
 | [[冬泳 ]]| https://book.douban.com/subject/36124346/ |
@@ -70,6 +76,7 @@
 | [[缓步 ]]| https://book.douban.com/subject/36124370/ |
 | [[一团坚冰 ]]| https://book.douban.com/subject/35983022/ |
 | [[白鹿原 ]]| https://book.douban.com/subject/10564071/ |
+| [[台北人 ]]| https://book.douban.com/subject/26253699/ |
 | [[额尔古纳河右岸 ]]| https://book.douban.com/subject/34432750/ |
 | [[一句顶一万句 ]]| https://book.douban.com/subject/36062390/ |
 | [[九诗心 ]]| https://book.douban.com/subject/37077202/ |
@@ -91,9 +98,12 @@
 | [[太后西奔 ]]| https://book.douban.com/subject/36463589/ |
 | [[暮日耀光 ： 张居正与明代中后期政局 ]]| https://book.douban.com/subject/36657004/ |
 | [[弃长安 ]]| https://book.douban.com/subject/35678328/ |
+| [[夹缝中的总督：曾国藩的五次生死局 ]]| https://book.douban.com/subject/36913361/ |
 | [[邓小平时代 ]]| https://book.douban.com/subject/20424526/ |
 | [[中国历代政治得失——钱穆 ]]| https://book.douban.com/subject/30206893/ |
+| [[苏东坡传 ]]| https://book.douban.com/subject/30171389/ |
 | [[康熙的红票 ]]| https://book.douban.com/subject/36794613/ |
 | [[巫蛊乱长安 ]]| https://book.douban.com/subject/36885590/ |
+| [[孤星之旅：苏东坡传 ]]| https://book.douban.com/subject/36247474/ |
 | [[天朝的崩溃——茅海建 ]]| https://book.douban.com/subject/25935941/ |
 

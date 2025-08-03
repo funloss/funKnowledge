@@ -5,5 +5,10 @@
   "mermaid-tools",
   "contribution-graph",
   "obsidian-douban-plugin",
-  "components"
+  "components",
+  "homepage",
+  "obsidian-excalidraw-plugin",
+  "obsidian-mind-map",
+  "calendar",
+  "obsidian-kanban"
 ]

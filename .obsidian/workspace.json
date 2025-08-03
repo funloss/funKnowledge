@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "af04f40d16e178c5",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "5d8f071c78c0704b",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "193486a60f093c5e",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/哲学/生存哲学——雅斯贝斯.md",
+                "file": "读书/哲学/汉娜·阿伦特：爱与恶.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "生存哲学——雅斯贝斯"
-            }
-          },
-          {
-            "id": "d4ee7e40dc278993",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "读书/世界历史/故国曾在：我的巴勒斯坦人生.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "故国曾在：我的巴勒斯坦人生"
+              "title": "汉娜·阿伦特：爱与恶"
             }
           }
         ]
@@ -95,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -105,7 +81,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "书签"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -128,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书/世界历史/第三帝国的兴亡.md",
+                "file": "输出/德国二战战略演变.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +114,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "第三帝国的兴亡 的反向链接列表"
+              "title": "Backlinks for 德国二战战略演变"
             }
           },
           {
@@ -147,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书/世界历史/第三帝国的兴亡.md",
+                "file": "输出/德国二战战略演变.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "第三帝国的兴亡 的出链列表"
+              "title": "Outgoing links from 德国二战战略演变"
             }
           },
           {
@@ -162,12 +138,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "标签"
+              "title": "Tags"
             }
           },
           {
@@ -176,27 +152,37 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书/哲学/生存哲学——雅斯贝斯.md",
+                "file": "输出/德国二战战略演变.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 生存哲学——雅斯贝斯"
+              "title": "Outline of 德国二战战略演变"
             }
           },
           {
-            "id": "a93d28050679acf8",
+            "id": "04501092e1ee08be",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "94376be2efb11033",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -209,54 +195,59 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "193486a60f093c5e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "读书/哲学/时代的精神状况——雅斯贝斯.md",
-    "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
-    "读书/哲学/未命名.md",
-    "读书/世界历史/绥靖时代——希特勒、张伯伦、丘吉尔与通往战争之路.md",
-    "读书/世界历史/苏联解体亲历记.md",
-    "读书/文学作品/东北文学/平原上的摩西.md",
-    "读书/文学作品/东北文学/冬泳.md",
-    "读书/文学作品/东北文学/逍遥游.md",
-    "读书/世界历史/第三帝国的兴亡.md",
-    "读书/世界历史/故国曾在：我的巴勒斯坦人生.md",
-    "读书/世界历史/命令已经执行.md",
-    "读书/世界历史/1941：德国走向失败的那一年.md",
+    "读书/首页.md",
+    "读书/哲学/汉娜·阿伦特：爱与恶.md",
+    "读书/世界历史/零年：1945·现代世界诞生的时刻.md",
     "模板/读书笔记with Prompt.md",
-    "模板/未命名.md",
-    "book/罪与罚.md",
+    "BookPrompt.md",
+    "读书/世界历史/君临天下：世界历史上的皇帝.md",
+    "模板/读书笔记模板.md",
+    "输出/德国二战战略演变.md",
+    "读书/世界历史/奥斯维辛与现代性.png",
+    "输出/中国历史的兴衰轮回.md",
+    "输出/奥斯维辛与现代性.md",
+    "读书/心理学和社会学/思考，快与慢.md",
+    "输出",
+    "README.md",
+    "GenerateTags.py",
+    "读书/中国历史/苏东坡传.md",
+    "读书/中国历史/孤星之旅：苏东坡传.md",
+    "Untitled 1.canvas",
+    "Untitled Kanban.md",
+    "Untitled.canvas",
+    "读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
+    "读书/中国历史/夹缝中的总督：曾国藩的五次生死局.md",
+    "读书/世界历史/奥斯维辛：一部历史.md",
+    "读书/哲学/洞穴奇案.md",
+    "读书/心理学和社会学/刘擎西方现代思想讲义.md",
+    "Excalidraw/首页 2025-07-06 09.02.53.excalidraw.md",
+    "asdasd.md",
+    "读书/文学作品/东北文学/一团坚冰.md",
+    "Excalidraw",
+    "读书/哲学/西方哲学史（第9版）.md",
+    "读书/哲学/语言学的邀请.md",
+    "读书/文学作品/黑塞/克林索尔的最后夏天.md",
     "assets/s34941132.jpg",
     "book",
     "assets",
-    "读书/哲学/洞穴奇案.md",
-    "读书/文学作品/陀思妥耶夫斯基/罪与罚.md",
-    "BookPrompt.md",
-    "读书/中国历史/南明史——顾诚.md",
-    "读书/中国历史/中国历代政治得失——钱穆.md",
-    "读书/中国历史/天朝的崩溃——茅海建.md",
-    "读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md",
-    "读书/世界历史/愚蠢的核弹.md",
-    "读书/文学作品/国内/台北人.md",
-    "读书/文学作品/国内/九诗心.md",
-    "读书/中国历史/他改变了中国：江泽民传.md",
     "未命名.canvas",
     "读书/文学作品/国外",
     "components/view/test.components",
     "components/view",
     "components",
     "Mermaid/chinese_history",
-    "Mermaid",
-    "GenerateMermaid.py",
-    "FormatPrompt.py",
     "Pasted image 20250309165327.png",
     "Pasted image 20250309164034.png",
     "Pasted image 20250309150856.png",
     "Pasted image 20250302144438.png",
-    "未命名 1.canvas",
-    "Untitled.canvas"
+    "未命名 1.canvas"
   ]
 }
