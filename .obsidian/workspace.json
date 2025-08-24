@@ -11,13 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "读书/gallery.base",
-                "viewName": "视图"
+                "file": "读书/中国历史/显微镜下的大明.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "gallery"
+              "icon": "lucide-file",
+              "title": "显微镜下的大明"
             }
           }
         ]
@@ -203,11 +214,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "metaData.json",
+    "generate_metadata.py",
+    "读书/gallery.base",
     "README.md",
     "BookPrompt.md",
     "模板/读书笔记with Prompt.md",
     "Untitled 1.md",
-    "读书/gallery.base",
     "读书/首页.md",
     "读书/中国历史/五四运动史——周策纵.md",
     "读书/文学作品/东北文学/一团坚冰.md",
@@ -232,13 +245,11 @@
     "读书/文学作品/陀思妥耶夫斯基_backup/地下室手记.md_20250824_104441.bak",
     "读书/文学作品/陀思妥耶夫斯基_backup/卡拉马佐夫兄弟.md_20250824_104441.bak",
     "读书/文学作品/陀思妥耶夫斯基_backup",
-    "restore_file_contents.py",
     "读书/哲学/洞穴奇案.md",
     "读书/文学作品/国内/白鹿原.md",
     "读书/文学作品/国内/额尔古纳河右岸.md",
     "读书/文学作品/国内/九诗心.md",
     "读书/文学作品/国内/一句顶一万句.md",
-    "读书/世界历史/命令已经执行.md",
     "image/s34643826.jpg",
     "读书/世界历史/奥斯维辛与现代性.png",
     "Untitled 1.canvas",
