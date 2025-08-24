@@ -1,0 +1,41 @@
+formulas:
+  未命名: ""
+  未命名 2: ""
+views:
+  - type: cards
+    name: 视图
+    filters:
+      and:
+        - file.inFolder("读书")
+        - file.hasProperty("douban_link")
+    order:
+      - file.name
+      - file.size
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.mtime
+        direction: DESC
+    image: note.cover
+    imageFit: ""
+    imageAspectRatio: 1.5
+    cardSize: 150
+  - type: table
+    name: 表格
+    filters:
+      and:
+        - file.inFolder("读书")
+        - file.hasProperty("douban_link")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+      - file.folder
+      - douban_link
+      - cover
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: cover
+        direction: ASC

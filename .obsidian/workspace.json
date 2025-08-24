@@ -11,24 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "读书/首页.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "读书/gallery.base",
+                "viewName": "视图"
               },
-              "icon": "lucide-file",
-              "title": "首页"
+              "icon": "lucide-layout-grid",
+              "title": "gallery"
             }
           }
         ]
@@ -54,7 +43,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -63,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cover",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "搜索"
             }
           },
           {
@@ -180,6 +169,16 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "0a5f0fdf7c3fc261",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -191,61 +190,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false,
       "copilot:Open Copilot Chat": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "读书/世界历史/1941：德国走向失败的那一年.md",
-    "读书/首页.md",
-    "读书/哲学/苏格拉底的申辩.md",
     "README.md",
     "BookPrompt.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "输出/中国历史的兴衰轮回.md",
-    "读书/世界历史/零年：1945·现代世界诞生的时刻.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts",
-    "读书/世界历史/恐惧与自由.md",
-    "读书/文学作品/国内/白鹿原.md",
-    "输出/德国二战战略演变.md",
-    "输出/奥斯维辛与现代性.md",
-    "读书/哲学/汉娜·阿伦特：爱与恶.md",
     "模板/读书笔记with Prompt.md",
+    "Untitled 1.md",
+    "读书/gallery.base",
+    "读书/首页.md",
+    "读书/中国历史/五四运动史——周策纵.md",
+    "读书/文学作品/东北文学/一团坚冰.md",
+    "读书/文学作品/test_recursive_folder/test_recursive_file.md",
+    "读书/文学作品/东北文学/平原上的摩西.md",
+    "读书/文学作品/东北文学/冬泳.md",
+    "读书/文学作品/东北文学/仙症.md",
+    "读书/文学作品/test_recursive_folder",
+    "-p",
+    "读书/文学作品/黑塞/德米安.md",
+    "读书/文学作品/黑塞/克林索尔的最后夏天.md",
+    "读书/文学作品/黑塞/荒原狼.md",
+    "读书/文学作品/陀思妥耶夫斯基/地下室手记.md",
+    "读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
+    "读书/文学作品/陀思妥耶夫斯基/罪与罚.md",
+    "读书/文学作品/tmp/test_cover_exists.md",
+    "读书/文学作品/tmp/test_cover_empty.md",
+    "mkdir",
+    "读书/文学作品/tmp/一团坚冰.md",
+    "读书/文学作品/tmp",
+    "读书/文学作品/陀思妥耶夫斯基_backup/罪与罚.md_20250824_104441.bak",
+    "读书/文学作品/陀思妥耶夫斯基_backup/地下室手记.md_20250824_104441.bak",
+    "读书/文学作品/陀思妥耶夫斯基_backup/卡拉马佐夫兄弟.md_20250824_104441.bak",
+    "读书/文学作品/陀思妥耶夫斯基_backup",
+    "restore_file_contents.py",
+    "读书/哲学/洞穴奇案.md",
+    "读书/文学作品/国内/白鹿原.md",
+    "读书/文学作品/国内/额尔古纳河右岸.md",
+    "读书/文学作品/国内/九诗心.md",
+    "读书/文学作品/国内/一句顶一万句.md",
+    "读书/世界历史/命令已经执行.md",
+    "image/s34643826.jpg",
     "读书/世界历史/奥斯维辛与现代性.png",
-    "输出",
-    "GenerateTags.py",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Excalidraw",
     "assets/s34941132.jpg",
-    "book",
-    "assets",
     "未命名.canvas",
-    "读书/文学作品/国外",
-    "components/view/test.components",
-    "components/view",
-    "components",
     "Pasted image 20250309165327.png",
     "Pasted image 20250309164034.png",
     "Pasted image 20250309150856.png",
