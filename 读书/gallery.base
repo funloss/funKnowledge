@@ -11,10 +11,10 @@ views:
     order:
       - file.name
       - file.size
-      - file.folder
+      - score
     sort:
-      - property: file.folder
-        direction: ASC
+      - property: score
+        direction: DESC
       - property: file.mtime
         direction: DESC
     image: note.cover

@@ -11,24 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "读书/gallery.base",
+                "viewName": "视图"
               },
-              "icon": "lucide-file",
-              "title": "卡拉马佐夫兄弟"
+              "icon": "lucide-layout-grid",
+              "title": "gallery"
             }
           }
         ]
@@ -214,6 +203,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "读书/世界历史/奥斯维辛：一部历史.md",
+    "读书/文学作品/国内/台北人.md",
+    "读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
     "读书/文学作品/黑塞/德米安.md",
     "读书/文学作品/东北文学/黄昏后.md",
     "读书/中国历史/万历十五年——黄仁宇.md",
@@ -250,7 +242,6 @@
     "读书/文学作品/黑塞/克林索尔的最后夏天.md",
     "读书/文学作品/黑塞/荒原狼.md",
     "读书/文学作品/陀思妥耶夫斯基/地下室手记.md",
-    "读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
     "读书/文学作品/陀思妥耶夫斯基/罪与罚.md",
     "读书/文学作品/tmp/test_cover_exists.md",
     "读书/文学作品/tmp/test_cover_empty.md",
@@ -258,8 +249,6 @@
     "读书/文学作品/tmp/一团坚冰.md",
     "读书/文学作品/tmp",
     "读书/哲学/洞穴奇案.md",
-    "读书/文学作品/国内/白鹿原.md",
-    "读书/文学作品/国内/额尔古纳河右岸.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "未命名.canvas",
