@@ -1,6 +1,8 @@
 import os
 import re
 import json
+import os
+import datetime
 
 # 配置路径
 TARGET_FOLDER = '/Users/zhezhang/Documents/Fun Knowledge/读书'
@@ -125,6 +127,18 @@ def generate_metadata():
             # 创建GitHub图片链接（raw格式）
             github_cover_url = f"https://raw.githubusercontent.com/funloss/funKnowledge/main/img/{book_name}.jpg"
             
+            # 获取文件的创建时间
+            try:
+                # 在macOS上，使用os.stat获取birthtime作为创建时间
+                stat_info = os.stat(file_path)
+                # macOS系统上使用birthtime
+                ctime = stat_info.st_birthtime
+                # 转换为格式化的日期字符串（YYYY-MM-DD）
+                mtime_str = datetime.datetime.fromtimestamp(ctime).strftime('%Y-%m-%d')
+            except Exception as e:
+                print(f"获取文件创建时间失败: {file_path}, 错误: {str(e)}")
+                mtime_str = None
+            
             # 创建书籍元数据对象
             book_metadata = {
                 "bookName": book_name,
@@ -133,7 +147,8 @@ def generate_metadata():
                 "cate_level1": cate_level1,
                 "cate_leaf": cate_leaf,
                 "githubUrl": github_url,
-                "score": score  # 添加score字段
+                "score": score,  # 添加score字段
+                "mtime": mtime_str  # 添加mtime字段（文件创建日期）
             }
             
             # 添加到列表
