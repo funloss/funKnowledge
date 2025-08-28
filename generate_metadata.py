@@ -102,7 +102,7 @@ def generate_metadata():
             
             # 提取书籍信息
             book_name = os.path.splitext(filename)[0]  # 去掉.md扩展名
-            douban_url, book_cover = extract_frontmatter_data(content)
+            douban_url, _ = extract_frontmatter_data(content)  # 不再需要提取原始的cover字段
             
             # 检查必要字段
             if not douban_url:
@@ -110,22 +110,20 @@ def generate_metadata():
                 skipped_files += 1
                 continue
             
-            # 如果没有封面字段，使用默认值
-            if not book_cover:
-                book_cover = ""
-                print(f"未找到封面链接: {file_path}")
-            
             # 获取分类信息
             cate_level1, cate_leaf = get_category_info(file_path)
             
             # 生成GitHub URL
             github_url = generate_github_url(file_path)
             
+            # 创建GitHub图片链接
+            github_cover_url = f"https://github.com/funloss/funKnowledge/blob/main/img/{book_name}.jpg"
+            
             # 创建书籍元数据对象
             book_metadata = {
                 "bookName": book_name,
                 "doubanUrl": douban_url,
-                "bookCover": book_cover,
+                "bookCover": github_cover_url,  # 使用GitHub图片链接
                 "cate_level1": cate_level1,
                 "cate_leaf": cate_leaf,
                 "githubUrl": github_url
