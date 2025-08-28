@@ -14,9 +14,10 @@ skipped_files = 0
 metadata_list = []
 
 def extract_frontmatter_data(content):
-    """从文件内容中提取YAML frontmatter中的douban_link和cover字段"""
+    """从文件内容中提取YAML frontmatter中的douban_link, cover和score字段"""
     douban_url = None
     book_cover = None
+    score = None
     
     # 查找YAML frontmatter
     if content.startswith('---'):
@@ -38,7 +39,12 @@ def extract_frontmatter_data(content):
     if cover_match:
         book_cover = cover_match.group(1)
     
-    return douban_url, book_cover
+    # 提取score
+    score_match = re.search(r'score:\s*(\d+(?:\.\d+)?)', yaml_content)
+    if score_match:
+        score = float(score_match.group(1))
+    
+    return douban_url, book_cover, score
 
 def generate_github_url(file_path):
     """生成GitHub URL"""
@@ -102,7 +108,7 @@ def generate_metadata():
             
             # 提取书籍信息
             book_name = os.path.splitext(filename)[0]  # 去掉.md扩展名
-            douban_url, _ = extract_frontmatter_data(content)  # 不再需要提取原始的cover字段
+            douban_url, _, score = extract_frontmatter_data(content)  # 不再需要提取原始的cover字段
             
             # 检查必要字段
             if not douban_url:
@@ -126,7 +132,8 @@ def generate_metadata():
                 "bookCover": github_cover_url,  # 使用GitHub图片链接
                 "cate_level1": cate_level1,
                 "cate_leaf": cate_leaf,
-                "githubUrl": github_url
+                "githubUrl": github_url,
+                "score": score  # 添加score字段
             }
             
             # 添加到列表

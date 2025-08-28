@@ -5,7 +5,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/思考，快与慢.jpg",
     "cate_level1": "心理学和社会学",
     "cate_leaf": "心理学和社会学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/思考，快与慢.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/思考，快与慢.md",
+    "score": 4.0
   },
   {
     "bookName": "枪炮病菌和钢铁",
@@ -13,7 +14,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/枪炮病菌和钢铁.jpg",
     "cate_level1": "心理学和社会学",
     "cate_leaf": "心理学和社会学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/枪炮病菌和钢铁.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/枪炮病菌和钢铁.md",
+    "score": 4.0
   },
   {
     "bookName": "自私的基因",
@@ -21,7 +23,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/自私的基因.jpg",
     "cate_level1": "心理学和社会学",
     "cate_leaf": "心理学和社会学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/自私的基因.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/自私的基因.md",
+    "score": 4.0
   },
   {
     "bookName": "刘擎西方现代思想讲义",
@@ -29,7 +32,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/刘擎西方现代思想讲义.jpg",
     "cate_level1": "心理学和社会学",
     "cate_leaf": "心理学和社会学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/刘擎西方现代思想讲义.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/刘擎西方现代思想讲义.md",
+    "score": 4.0
   },
   {
     "bookName": "包刚升政治学讲义",
@@ -37,7 +41,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/包刚升政治学讲义.jpg",
     "cate_level1": "心理学和社会学",
     "cate_leaf": "心理学和社会学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/包刚升政治学讲义.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/心理学和社会学/包刚升政治学讲义.md",
+    "score": 4.0
   },
   {
     "bookName": "1945年的六个月",
@@ -45,7 +50,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/1945年的六个月.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/1945年的六个月.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/1945年的六个月.md",
+    "score": 4.0
   },
   {
     "bookName": "命运攸关的抉择——1940-1941年间改变世界的十个决策",
@@ -53,7 +59,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/命运攸关的抉择——1940-1941年间改变世界的十个决策.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
+    "score": 4.0
   },
   {
     "bookName": "企鹅欧洲史·地狱之行1914-1949",
@@ -61,7 +68,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/企鹅欧洲史·地狱之行1914-1949.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/企鹅欧洲史·地狱之行1914-1949.md",
+    "score": 4.0
   },
   {
     "bookName": "故国曾在：我的巴勒斯坦人生",
@@ -69,7 +77,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/故国曾在：我的巴勒斯坦人生.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/故国曾在：我的巴勒斯坦人生.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/故国曾在：我的巴勒斯坦人生.md",
+    "score": 4.0
   },
   {
     "bookName": "恐惧与自由",
@@ -77,7 +86,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/恐惧与自由.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/恐惧与自由.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/恐惧与自由.md",
+    "score": 4.0
   },
   {
     "bookName": "绥靖时代——希特勒、张伯伦、丘吉尔与通往战争之路",
@@ -85,7 +95,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/绥靖时代——希特勒、张伯伦、丘吉尔与通往战争之路.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/绥靖时代——希特勒、张伯伦、丘吉尔与通往战争之路.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/绥靖时代——希特勒、张伯伦、丘吉尔与通往战争之路.md",
+    "score": 4.0
   },
   {
     "bookName": "切尔诺贝利：一部悲剧史",
@@ -93,7 +104,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/切尔诺贝利：一部悲剧史.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/切尔诺贝利：一部悲剧史.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/切尔诺贝利：一部悲剧史.md",
+    "score": 4.0
   },
   {
     "bookName": "愚蠢的核弹",
@@ -101,7 +113,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/愚蠢的核弹.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/愚蠢的核弹.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/愚蠢的核弹.md",
+    "score": 4.0
   },
   {
     "bookName": "1941：德国走向失败的那一年",
@@ -109,7 +122,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/1941：德国走向失败的那一年.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/1941：德国走向失败的那一年.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/1941：德国走向失败的那一年.md",
+    "score": 4.0
   },
   {
     "bookName": "君临天下：世界历史上的皇帝",
@@ -117,7 +131,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/君临天下：世界历史上的皇帝.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/君临天下：世界历史上的皇帝.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/君临天下：世界历史上的皇帝.md",
+    "score": 4.0
   },
   {
     "bookName": "希特勒传",
@@ -125,7 +140,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/希特勒传.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/希特勒传.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/希特勒传.md",
+    "score": 4.0
   },
   {
     "bookName": "命令已经执行",
@@ -133,7 +149,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/命令已经执行.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/命令已经执行.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/命令已经执行.md",
+    "score": 4.0
   },
   {
     "bookName": "第三帝国的兴亡",
@@ -141,7 +158,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/第三帝国的兴亡.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国的兴亡.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国的兴亡.md",
+    "score": 4.0
   },
   {
     "bookName": "苏联解体亲历记",
@@ -149,7 +167,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/苏联解体亲历记.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/苏联解体亲历记.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/苏联解体亲历记.md",
+    "score": 4.0
   },
   {
     "bookName": "二手时间",
@@ -157,7 +176,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/二手时间.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/二手时间.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/二手时间.md",
+    "score": 4.0
   },
   {
     "bookName": "和平戛然而止 ：通往1914年之路",
@@ -165,7 +185,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/和平戛然而止 ：通往1914年之路.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/和平戛然而止 ：通往1914年之路.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/和平戛然而止 ：通往1914年之路.md",
+    "score": 4.0
   },
   {
     "bookName": "奥斯维辛：一部历史",
@@ -173,7 +194,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/奥斯维辛：一部历史.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/奥斯维辛：一部历史.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/奥斯维辛：一部历史.md",
+    "score": 4.0
   },
   {
     "bookName": "零年：1945·现代世界诞生的时刻",
@@ -181,7 +203,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/零年：1945·现代世界诞生的时刻.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/零年：1945·现代世界诞生的时刻.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/零年：1945·现代世界诞生的时刻.md",
+    "score": 4.0
   },
   {
     "bookName": "最寒冷的冬天",
@@ -189,7 +212,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/最寒冷的冬天.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/最寒冷的冬天.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/最寒冷的冬天.md",
+    "score": 4.0
   },
   {
     "bookName": "野蛮大陆：第二次世界大战后的欧洲",
@@ -197,7 +221,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/野蛮大陆：第二次世界大战后的欧洲.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/野蛮大陆：第二次世界大战后的欧洲.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/野蛮大陆：第二次世界大战后的欧洲.md",
+    "score": 4.0
   },
   {
     "bookName": "战时的第三帝国",
@@ -205,7 +230,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/战时的第三帝国.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "第三帝国三部曲",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国三部曲/战时的第三帝国.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
+    "score": 4.0
   },
   {
     "bookName": "当权的第三帝国",
@@ -213,7 +239,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/当权的第三帝国.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "第三帝国三部曲",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国三部曲/当权的第三帝国.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国三部曲/当权的第三帝国.md",
+    "score": 4.0
   },
   {
     "bookName": "第三帝国的到来",
@@ -221,7 +248,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/第三帝国的到来.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "第三帝国三部曲",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国三部曲/第三帝国的到来.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国三部曲/第三帝国的到来.md",
+    "score": 4.0
   },
   {
     "bookName": "诸神的黄昏——1944—1945，从莱特湾战役到日本投降",
@@ -229,7 +257,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/诸神的黄昏——1944—1945，从莱特湾战役到日本投降.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "太平洋三部曲",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/太平洋三部曲/诸神的黄昏——1944—1945，从莱特湾战役到日本投降.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/太平洋三部曲/诸神的黄昏——1944—1945，从莱特湾战役到日本投降.md",
+    "score": 4.0
   },
   {
     "bookName": "征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役",
@@ -237,7 +266,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "太平洋三部曲",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/太平洋三部曲/征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/太平洋三部曲/征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役.md",
+    "score": 4.0
   },
   {
     "bookName": "燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役",
@@ -245,7 +275,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "太平洋三部曲",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/太平洋三部曲/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/太平洋三部曲/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.md",
+    "score": 4.0
   },
   {
     "bookName": "苏格拉底的申辩",
@@ -253,7 +284,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/苏格拉底的申辩.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/苏格拉底的申辩.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/苏格拉底的申辩.md",
+    "score": 4.0
   },
   {
     "bookName": "成为波伏瓦",
@@ -261,7 +293,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/成为波伏瓦.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/成为波伏瓦.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/成为波伏瓦.md",
+    "score": 4.0
   },
   {
     "bookName": "生存哲学——雅斯贝斯",
@@ -269,7 +302,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/生存哲学——雅斯贝斯.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/生存哲学——雅斯贝斯.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/生存哲学——雅斯贝斯.md",
+    "score": 4.0
   },
   {
     "bookName": "人类知识演化史",
@@ -277,7 +311,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/人类知识演化史.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/人类知识演化史.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/人类知识演化史.md",
+    "score": 4.0
   },
   {
     "bookName": "洞穴奇案",
@@ -285,7 +320,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/洞穴奇案.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/洞穴奇案.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/洞穴奇案.md",
+    "score": 4.0
   },
   {
     "bookName": "西方哲学史（第9版）",
@@ -293,7 +329,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/西方哲学史（第9版）.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/西方哲学史（第9版）.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/西方哲学史（第9版）.md",
+    "score": 4.0
   },
   {
     "bookName": "汉娜·阿伦特：爱与恶",
@@ -301,7 +338,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/汉娜·阿伦特：爱与恶.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/汉娜·阿伦特：爱与恶.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/汉娜·阿伦特：爱与恶.md",
+    "score": 4.0
   },
   {
     "bookName": "时代的精神状况——雅斯贝斯",
@@ -309,7 +347,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/时代的精神状况——雅斯贝斯.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/时代的精神状况——雅斯贝斯.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/时代的精神状况——雅斯贝斯.md",
+    "score": 4.0
   },
   {
     "bookName": "世界是如何思考的",
@@ -317,7 +356,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/世界是如何思考的.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/世界是如何思考的.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/世界是如何思考的.md",
+    "score": 4.0
   },
   {
     "bookName": "语言学的邀请",
@@ -325,7 +365,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/语言学的邀请.jpg",
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/语言学的邀请.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/语言学的邀请.md",
+    "score": 4.0
   },
   {
     "bookName": "斯通纳",
@@ -333,7 +374,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/斯通纳.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "国外",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/斯通纳.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/斯通纳.md",
+    "score": 4.0
   },
   {
     "bookName": "百年孤独",
@@ -341,7 +383,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/百年孤独.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "国外",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/百年孤独.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/百年孤独.md",
+    "score": 4.0
   },
   {
     "bookName": "伊甸之东",
@@ -349,7 +392,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/伊甸之东.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "国外",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/伊甸之东.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/伊甸之东.md",
+    "score": 4.0
   },
   {
     "bookName": "刀锋",
@@ -357,7 +401,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/刀锋.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "国外",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/刀锋.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/刀锋.md",
+    "score": 4.0
   },
   {
     "bookName": "卡拉马佐夫兄弟",
@@ -365,7 +410,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/卡拉马佐夫兄弟.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "陀思妥耶夫斯基",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
+    "score": 4.0
   },
   {
     "bookName": "罪与罚",
@@ -373,7 +419,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/罪与罚.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "陀思妥耶夫斯基",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/陀思妥耶夫斯基/罪与罚.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/陀思妥耶夫斯基/罪与罚.md",
+    "score": 4.0
   },
   {
     "bookName": "地下室手记",
@@ -381,7 +428,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/地下室手记.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "陀思妥耶夫斯基",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/陀思妥耶夫斯基/地下室手记.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/陀思妥耶夫斯基/地下室手记.md",
+    "score": 4.0
   },
   {
     "bookName": "仙症",
@@ -389,7 +437,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/仙症.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "东北文学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/仙症.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/仙症.md",
+    "score": 4.0
   },
   {
     "bookName": "冬泳",
@@ -397,7 +446,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/冬泳.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "东北文学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/冬泳.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/冬泳.md",
+    "score": 4.0
   },
   {
     "bookName": "逍遥游",
@@ -405,7 +455,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/逍遥游.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "东北文学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/逍遥游.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/逍遥游.md",
+    "score": 4.0
   },
   {
     "bookName": "黄昏后",
@@ -413,7 +464,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/黄昏后.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "东北文学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/黄昏后.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/黄昏后.md",
+    "score": 4.0
   },
   {
     "bookName": "平原上的摩西",
@@ -421,7 +473,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/平原上的摩西.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "东北文学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/平原上的摩西.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/平原上的摩西.md",
+    "score": 4.0
   },
   {
     "bookName": "缓步",
@@ -429,7 +482,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/缓步.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "东北文学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/缓步.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/缓步.md",
+    "score": 4.0
   },
   {
     "bookName": "一团坚冰",
@@ -437,7 +491,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/一团坚冰.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "东北文学",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/一团坚冰.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/东北文学/一团坚冰.md",
+    "score": 4.0
   },
   {
     "bookName": "白鹿原",
@@ -445,7 +500,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/白鹿原.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "国内",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/白鹿原.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/白鹿原.md",
+    "score": 4.0
   },
   {
     "bookName": "台北人",
@@ -453,7 +509,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/台北人.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "国内",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/台北人.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/台北人.md",
+    "score": 4.0
   },
   {
     "bookName": "额尔古纳河右岸",
@@ -461,7 +518,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/额尔古纳河右岸.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "国内",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/额尔古纳河右岸.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/额尔古纳河右岸.md",
+    "score": 4.0
   },
   {
     "bookName": "一句顶一万句",
@@ -469,7 +527,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/一句顶一万句.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "国内",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/一句顶一万句.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/一句顶一万句.md",
+    "score": 4.0
   },
   {
     "bookName": "九诗心",
@@ -477,7 +536,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/九诗心.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "国内",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/九诗心.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/九诗心.md",
+    "score": 4.0
   },
   {
     "bookName": "德米安",
@@ -485,7 +545,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/德米安.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "黑塞",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/德米安.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/德米安.md",
+    "score": 4.0
   },
   {
     "bookName": "在轮下",
@@ -493,7 +554,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/在轮下.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "黑塞",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/在轮下.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/在轮下.md",
+    "score": 4.0
   },
   {
     "bookName": "悉达多",
@@ -501,7 +563,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/悉达多.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "黑塞",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/悉达多.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/悉达多.md",
+    "score": 4.0
   },
   {
     "bookName": "克林索尔的最后夏天",
@@ -509,7 +572,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/克林索尔的最后夏天.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "黑塞",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/克林索尔的最后夏天.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/克林索尔的最后夏天.md",
+    "score": 4.0
   },
   {
     "bookName": "荒原狼",
@@ -517,7 +581,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/荒原狼.jpg",
     "cate_level1": "文学作品",
     "cate_leaf": "黑塞",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/荒原狼.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/荒原狼.md",
+    "score": 4.0
   },
   {
     "bookName": "五四运动史——周策纵",
@@ -525,7 +590,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/五四运动史——周策纵.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/五四运动史——周策纵.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/五四运动史——周策纵.md",
+    "score": 4.0
   },
   {
     "bookName": "大变局——晚清改革五十年",
@@ -533,7 +599,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/大变局——晚清改革五十年.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/大变局——晚清改革五十年.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/大变局——晚清改革五十年.md",
+    "score": 4.0
   },
   {
     "bookName": "南明史——顾诚",
@@ -541,7 +608,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/南明史——顾诚.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/南明史——顾诚.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/南明史——顾诚.md",
+    "score": 4.0
   },
   {
     "bookName": "显微镜下的大明",
@@ -549,7 +617,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/显微镜下的大明.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/显微镜下的大明.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/显微镜下的大明.md",
+    "score": 4.0
   },
   {
     "bookName": "他改变了中国：江泽民传",
@@ -557,7 +626,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/他改变了中国：江泽民传.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/他改变了中国：江泽民传.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/他改变了中国：江泽民传.md",
+    "score": 4.0
   },
   {
     "bookName": "万历十五年——黄仁宇",
@@ -565,7 +635,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/万历十五年——黄仁宇.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/万历十五年——黄仁宇.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/万历十五年——黄仁宇.md",
+    "score": 4.0
   },
   {
     "bookName": "中国大历史——黄仁宇",
@@ -573,7 +644,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/中国大历史——黄仁宇.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/中国大历史——黄仁宇.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/中国大历史——黄仁宇.md",
+    "score": 4.0
   },
   {
     "bookName": "太后西奔",
@@ -581,7 +653,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/太后西奔.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/太后西奔.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/太后西奔.md",
+    "score": 4.0
   },
   {
     "bookName": "暮日耀光 ： 张居正与明代中后期政局",
@@ -589,7 +662,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/暮日耀光 ： 张居正与明代中后期政局.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/暮日耀光 ： 张居正与明代中后期政局.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/暮日耀光 ： 张居正与明代中后期政局.md",
+    "score": 4.0
   },
   {
     "bookName": "弃长安",
@@ -597,7 +671,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/弃长安.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/弃长安.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/弃长安.md",
+    "score": 4.0
   },
   {
     "bookName": "夹缝中的总督：曾国藩的五次生死局",
@@ -605,7 +680,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/夹缝中的总督：曾国藩的五次生死局.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/夹缝中的总督：曾国藩的五次生死局.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/夹缝中的总督：曾国藩的五次生死局.md",
+    "score": 4.0
   },
   {
     "bookName": "邓小平时代",
@@ -613,7 +689,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/邓小平时代.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/邓小平时代.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/邓小平时代.md",
+    "score": 4.0
   },
   {
     "bookName": "中国历代政治得失——钱穆",
@@ -621,7 +698,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/中国历代政治得失——钱穆.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/中国历代政治得失——钱穆.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/中国历代政治得失——钱穆.md",
+    "score": 4.0
   },
   {
     "bookName": "苏东坡传",
@@ -629,7 +707,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/苏东坡传.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/苏东坡传.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/苏东坡传.md",
+    "score": 4.0
   },
   {
     "bookName": "康熙的红票",
@@ -637,7 +716,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/康熙的红票.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/康熙的红票.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/康熙的红票.md",
+    "score": 4.0
   },
   {
     "bookName": "巫蛊乱长安",
@@ -645,7 +725,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/巫蛊乱长安.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/巫蛊乱长安.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/巫蛊乱长安.md",
+    "score": 4.0
   },
   {
     "bookName": "孤星之旅：苏东坡传",
@@ -653,7 +734,8 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/孤星之旅：苏东坡传.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/孤星之旅：苏东坡传.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/孤星之旅：苏东坡传.md",
+    "score": 4.0
   },
   {
     "bookName": "天朝的崩溃——茅海建",
@@ -661,6 +743,7 @@
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/天朝的崩溃——茅海建.jpg",
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/天朝的崩溃——茅海建.md"
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/天朝的崩溃——茅海建.md",
+    "score": 4.0
   }
 ]
