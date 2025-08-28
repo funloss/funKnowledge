@@ -116,8 +116,8 @@ def generate_metadata():
             # 生成GitHub URL
             github_url = generate_github_url(file_path)
             
-            # 创建GitHub图片链接
-            github_cover_url = f"https://github.com/funloss/funKnowledge/blob/main/img/{book_name}.jpg"
+            # 创建GitHub图片链接（raw格式）
+            github_cover_url = f"https://raw.githubusercontent.com/funloss/funKnowledge/main/img/{book_name}.jpg"
             
             # 创建书籍元数据对象
             book_metadata = {
