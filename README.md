@@ -1,109 +1,99 @@
 # 书籍类别统计：
 | 书籍分类 | 数目|
 |----|----|
-|心理学和社会学 | 5本 |
-|世界历史 | 26本 |
-|哲学 | 9本 |
-|文学作品 | 24本 |
-|中国历史 | 18本 |
+|zhezhang | 88本 |
 
 # 书籍目录明细：
 
-## 心理学和社会学
+## zhezhang
 | 书籍名称 | 豆瓣链接|
 |----|----|
-| [[思考，快与慢 ]]| https://book.douban.com/subject/37270984/ |
-| [[枪炮病菌和钢铁 ]]| https://book.douban.com/subject/1813841/ |
-| [[自私的基因 ]]| https://book.douban.com/subject/11445548/ |
-| [[刘擎西方现代思想讲义 ]]| https://book.douban.com/subject/35313227/ |
-| [[包刚升政治学讲义 ]]| https://book.douban.com/subject/36792134/ |
-## 世界历史
-| 书籍名称 | 豆瓣链接|
-|----|----|
-| [[1945年的六个月 ]]| https://book.douban.com/subject/35232623/ |
-| [[命运攸关的抉择——1940-1941年间改变世界的十个决策 ]]| https://book.douban.com/subject/27046300/ |
-| [[企鹅欧洲史·地狱之行1914-1949 ]]| https://book.douban.com/subject/27184989/ |
-| [[故国曾在：我的巴勒斯坦人生 ]]| https://book.douban.com/subject/36669377/ |
-| [[恐惧与自由 ]]| https://book.douban.com/subject/34834442/ |
-| [[绥靖时代——希特勒、张伯伦、丘吉尔与通往战争之路 ]]| https://book.douban.com/subject/36769934/ |
-| [[切尔诺贝利：一部悲剧史 ]]| https://book.douban.com/subject/35081166/ |
-| [[愚蠢的核弹 ]]| https://book.douban.com/subject/36480234/ |
-| [[1941：德国走向失败的那一年 ]]| https://book.douban.com/subject/35560969/ |
-| [[君临天下：世界历史上的皇帝 ]]| https://book.douban.com/subject/37336533/ |
-| [[希特勒传 ]]| https://book.douban.com/subject/30140243/ |
-| [[命令已经执行 ]]| https://book.douban.com/subject/36413886/ |
-| [[第三帝国的兴亡 ]]| https://book.douban.com/subject/34907824/ |
-| [[苏联解体亲历记 ]]| https://book.douban.com/subject/30246943/ |
-| [[二手时间 ]]| https://book.douban.com/subject/26704403/ |
-| [[和平戛然而止 ：通往1914年之路 ]]| https://book.douban.com/subject/36089295/ |
-| [[奥斯维辛：一部历史 ]]| https://book.douban.com/subject/26861418/ |
-| [[零年：1945·现代世界诞生的时刻 ]]| https://book.douban.com/subject/34663162/ |
-| [[最寒冷的冬天 ]]| https://book.douban.com/subject/27102845/ |
-| [[野蛮大陆：第二次世界大战后的欧洲 ]]| https://book.douban.com/subject/26354440/ |
-| [[战时的第三帝国 ]]| https://book.douban.com/subject/35134992/ |
-| [[当权的第三帝国 ]]| https://book.douban.com/subject/34925415/ |
-| [[第三帝国的到来 ]]| https://book.douban.com/subject/34928222/ |
-| [[诸神的黄昏——1944—1945，从莱特湾战役到日本投降 ]]| https://book.douban.com/subject/35620036/ |
-| [[征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役 ]]| https://book.douban.com/subject/35100338/ |
-| [[燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役 ]]| https://book.douban.com/subject/34988830/ |
-## 哲学
-| 书籍名称 | 豆瓣链接|
-|----|----|
-| [[成为波伏瓦 ]]| https://book.douban.com/subject/35317169/ |
-| [[生存哲学——雅斯贝斯 ]]| https://book.douban.com/subject/23038656/ |
-| [[人类知识演化史 ]]| https://book.douban.com/subject/36638525/ |
-| [[洞穴奇案 ]]| https://book.douban.com/subject/35183164/ |
-| [[西方哲学史（第9版） ]]| https://book.douban.com/subject/34447865/ |
-| [[汉娜·阿伦特：爱与恶 ]]| https://book.douban.com/subject/36467397/ |
-| [[时代的精神状况——雅斯贝斯 ]]| https://book.douban.com/subject/23774527/ |
-| [[世界是如何思考的 ]]| https://book.douban.com/subject/35853017/ |
-| [[语言学的邀请 ]]| https://book.douban.com/subject/26431646/ |
-## 文学作品
-| 书籍名称 | 豆瓣链接|
-|----|----|
-| [[斯通纳 ]]| https://book.douban.com/subject/26425831/ |
-| [[百年孤独 ]]| https://book.douban.com/subject/6082808/ |
-| [[伊甸之东 ]]| https://book.douban.com/subject/36710568/ |
-| [[刀锋 ]]| https://book.douban.com/subject/35197280/ |
-| [[卡拉马佐夫兄弟 ]]| https://book.douban.com/subject/25887924/ |
-| [[罪与罚 ]]| https://book.douban.com/subject/25887912/ |
-| [[地下室手记 ]]| https://book.douban.com/subject/34990839/ |
-| [[仙症 ]]| https://book.douban.com/subject/35216559/ |
-| [[冬泳 ]]| https://book.douban.com/subject/36124346/ |
-| [[逍遥游 ]]| https://book.douban.com/subject/34940823/ |
-| [[黄昏后 ]]| https://book.douban.com/subject/36374349/ |
-| [[平原上的摩西 ]]| https://book.douban.com/subject/35192665/ |
-| [[缓步 ]]| https://book.douban.com/subject/36124370/ |
-| [[一团坚冰 ]]| https://book.douban.com/subject/35983022/ |
-| [[白鹿原 ]]| https://book.douban.com/subject/10564071/ |
-| [[台北人 ]]| https://book.douban.com/subject/26253699/ |
-| [[额尔古纳河右岸 ]]| https://book.douban.com/subject/34432750/ |
-| [[一句顶一万句 ]]| https://book.douban.com/subject/36062390/ |
-| [[九诗心 ]]| https://book.douban.com/subject/37077202/ |
-| [[德米安 ]]| https://book.douban.com/subject/35060088/ |
-| [[在轮下 ]]| https://book.douban.com/subject/35438728/ |
-| [[悉达多 ]]| https://book.douban.com/subject/26980487/ |
-| [[克林索尔的最后夏天 ]]| https://book.douban.com/subject/30389968/ |
-| [[荒原狼 ]]| https://book.douban.com/subject/4908883/ |
-## 中国历史
-| 书籍名称 | 豆瓣链接|
-|----|----|
-| [[五四运动史——周策纵 ]]| https://book.douban.com/subject/33391323/ |
-| [[大变局——晚清改革五十年 ]]| https://book.douban.com/subject/36574408/ |
-| [[南明史——顾诚 ]]| https://book.douban.com/subject/35771873/ |
-| [[显微镜下的大明 ]]| https://book.douban.com/subject/30414743/ |
-| [[他改变了中国：江泽民传 ]]| https://book.douban.com/subject/1023322/ |
-| [[万历十五年——黄仁宇 ]]| https://book.douban.com/subject/1041482/ |
-| [[中国大历史——黄仁宇 ]]| https://book.douban.com/subject/36619594/ |
-| [[太后西奔 ]]| https://book.douban.com/subject/36463589/ |
-| [[暮日耀光 ： 张居正与明代中后期政局 ]]| https://book.douban.com/subject/36657004/ |
-| [[弃长安 ]]| https://book.douban.com/subject/35678328/ |
-| [[夹缝中的总督：曾国藩的五次生死局 ]]| https://book.douban.com/subject/36913361/ |
-| [[邓小平时代 ]]| https://book.douban.com/subject/20424526/ |
-| [[中国历代政治得失——钱穆 ]]| https://book.douban.com/subject/30206893/ |
-| [[苏东坡传 ]]| https://book.douban.com/subject/30171389/ |
-| [[康熙的红票 ]]| https://book.douban.com/subject/36794613/ |
-| [[巫蛊乱长安 ]]| https://book.douban.com/subject/36885590/ |
-| [[孤星之旅：苏东坡传 ]]| https://book.douban.com/subject/36247474/ |
-| [[天朝的崩溃——茅海建 ]]| https://book.douban.com/subject/25935941/ |
+| [[gallery.base ]]| formulas: |
+| [[首页 ]]| ```contributionGraph |
+| [[思考，快与慢 ]]| --- |
+| [[枪炮病菌和钢铁 ]]| --- |
+| [[自私的基因 ]]| --- |
+| [[刘擎西方现代思想讲义 ]]| --- |
+| [[包刚升政治学讲义 ]]| --- |
+| [[1945年的六个月 ]]| --- |
+| [[命运攸关的抉择——1940-1941年间改变世界的十个决策 ]]| --- |
+| [[企鹅欧洲史·地狱之行1914-1949 ]]| --- |
+| [[故国曾在：我的巴勒斯坦人生 ]]| --- |
+| [[恐惧与自由 ]]| --- |
+| [[绥靖时代——希特勒、张伯伦、丘吉尔与通往战争之路 ]]| --- |
+| [[切尔诺贝利：一部悲剧史 ]]| --- |
+| [[愚蠢的核弹 ]]| --- |
+| [[1941：德国走向失败的那一年 ]]| --- |
+| [[君临天下：世界历史上的皇帝 ]]| --- |
+| [[希特勒传 ]]| --- |
+| [[命令已经执行 ]]| --- |
+| [[第三帝国的兴亡 ]]| --- |
+| [[苏联解体亲历记 ]]| --- |
+| [[二手时间 ]]| --- |
+| [[和平戛然而止 ：通往1914年之路 ]]| --- |
+| [[奥斯维辛：一部历史 ]]| --- |
+| [[零年：1945·现代世界诞生的时刻 ]]| --- |
+| [[最寒冷的冬天 ]]| --- |
+| [[野蛮大陆：第二次世界大战后的欧洲 ]]| --- |
+| [[最后一役 ]]| --- |
+| [[最长的一天 ]]| --- |
+| [[遥远的桥 ]]| --- |
+| [[战时的第三帝国 ]]| --- |
+| [[当权的第三帝国 ]]| --- |
+| [[第三帝国的到来 ]]| --- |
+| [[诸神的黄昏——1944—1945，从莱特湾战役到日本投降 ]]| --- |
+| [[征服的怒潮——1942—1944，从瓜岛战役到菲律宾海战役 ]]| --- |
+| [[燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役 ]]| --- |
+| [[苏格拉底的申辩 ]]| --- |
+| [[成为波伏瓦 ]]| --- |
+| [[生存哲学——雅斯贝斯 ]]| --- |
+| [[人类知识演化史 ]]| --- |
+| [[洞穴奇案 ]]| --- |
+| [[西方哲学史（第9版） ]]| --- |
+| [[汉娜·阿伦特：爱与恶 ]]| --- |
+| [[时代的精神状况——雅斯贝斯 ]]| --- |
+| [[世界是如何思考的 ]]| --- |
+| [[语言学的邀请 ]]| --- |
+| [[斯通纳 ]]| --- |
+| [[百年孤独 ]]| --- |
+| [[伊甸之东 ]]| --- |
+| [[刀锋 ]]| --- |
+| [[卡拉马佐夫兄弟 ]]| --- |
+| [[罪与罚 ]]| --- |
+| [[地下室手记 ]]| --- |
+| [[仙症 ]]| --- |
+| [[冬泳 ]]| --- |
+| [[逍遥游 ]]| --- |
+| [[黄昏后 ]]| --- |
+| [[平原上的摩西 ]]| --- |
+| [[缓步 ]]| --- |
+| [[一团坚冰 ]]| --- |
+| [[白鹿原 ]]| --- |
+| [[台北人 ]]| --- |
+| [[额尔古纳河右岸 ]]| --- |
+| [[一句顶一万句 ]]| --- |
+| [[九诗心 ]]| --- |
+| [[德米安 ]]| --- |
+| [[在轮下 ]]| --- |
+| [[悉达多 ]]| --- |
+| [[克林索尔的最后夏天 ]]| --- |
+| [[荒原狼 ]]| --- |
+| [[五四运动史——周策纵 ]]| --- |
+| [[大变局——晚清改革五十年 ]]| --- |
+| [[南明史——顾诚 ]]| --- |
+| [[显微镜下的大明 ]]| --- |
+| [[他改变了中国：江泽民传 ]]| --- |
+| [[万历十五年——黄仁宇 ]]| --- |
+| [[中国大历史——黄仁宇 ]]| --- |
+| [[太后西奔 ]]| --- |
+| [[暮日耀光 ： 张居正与明代中后期政局 ]]| --- |
+| [[弃长安 ]]| --- |
+| [[夹缝中的总督：曾国藩的五次生死局 ]]| --- |
+| [[邓小平时代 ]]| --- |
+| [[中国历代政治得失——钱穆 ]]| --- |
+| [[苏东坡传 ]]| --- |
+| [[康熙的红票 ]]| --- |
+| [[巫蛊乱长安 ]]| --- |
+| [[孤星之旅：苏东坡传 ]]| --- |
+| [[天朝的崩溃——茅海建 ]]| --- |
 

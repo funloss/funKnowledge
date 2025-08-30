@@ -66,7 +66,7 @@
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-08"
   },
   {
@@ -156,7 +156,7 @@
     "cate_level1": "世界历史",
     "cate_leaf": "世界历史",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/希特勒传.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-08"
   },
   {
@@ -250,13 +250,43 @@
     "mtime": "2025-03-29"
   },
   {
+    "bookName": "最后一役",
+    "doubanUrl": "https://book.douban.com/subject/27156011/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/最后一役.jpg",
+    "cate_level1": "世界历史",
+    "cate_leaf": "二战史诗三部曲",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/二战史诗三部曲/最后一役.md",
+    "score": 5.0,
+    "mtime": "2025-08-30"
+  },
+  {
+    "bookName": "最长的一天",
+    "doubanUrl": "https://book.douban.com/subject/27138726/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/最长的一天.jpg",
+    "cate_level1": "世界历史",
+    "cate_leaf": "二战史诗三部曲",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/二战史诗三部曲/最长的一天.md",
+    "score": 4.0,
+    "mtime": "2025-08-30"
+  },
+  {
+    "bookName": "遥远的桥",
+    "doubanUrl": "https://book.douban.com/subject/27605190/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/遥远的桥.jpg",
+    "cate_level1": "世界历史",
+    "cate_leaf": "二战史诗三部曲",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/二战史诗三部曲/遥远的桥.md",
+    "score": 4.0,
+    "mtime": "2025-08-30"
+  },
+  {
     "bookName": "战时的第三帝国",
     "doubanUrl": "https://book.douban.com/subject/35134992/",
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/战时的第三帝国.jpg",
     "cate_level1": "世界历史",
     "cate_leaf": "第三帝国三部曲",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-17"
   },
   {
@@ -266,7 +296,7 @@
     "cate_level1": "世界历史",
     "cate_leaf": "第三帝国三部曲",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国三部曲/当权的第三帝国.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-17"
   },
   {
@@ -276,7 +306,7 @@
     "cate_level1": "世界历史",
     "cate_leaf": "第三帝国三部曲",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/第三帝国三部曲/第三帝国的到来.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-17"
   },
   {
@@ -406,7 +436,7 @@
     "cate_level1": "哲学",
     "cate_leaf": "哲学",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/语言学的邀请.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-08"
   },
   {
@@ -426,7 +456,7 @@
     "cate_level1": "文学作品",
     "cate_leaf": "国外",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/百年孤独.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2025-03-29"
   },
   {
@@ -436,7 +466,7 @@
     "cate_level1": "文学作品",
     "cate_leaf": "国外",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/伊甸之东.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2025-03-29"
   },
   {
@@ -456,7 +486,7 @@
     "cate_level1": "文学作品",
     "cate_leaf": "陀思妥耶夫斯基",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/陀思妥耶夫斯基/卡拉马佐夫兄弟.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2025-03-29"
   },
   {
@@ -466,7 +496,7 @@
     "cate_level1": "文学作品",
     "cate_leaf": "陀思妥耶夫斯基",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/陀思妥耶夫斯基/罪与罚.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2025-06-21"
   },
   {
@@ -586,7 +616,7 @@
     "cate_level1": "文学作品",
     "cate_leaf": "国内",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/一句顶一万句.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-24"
   },
   {
@@ -646,7 +676,7 @@
     "cate_level1": "文学作品",
     "cate_leaf": "黑塞",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/黑塞/荒原狼.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-24"
   },
   {
@@ -656,7 +686,7 @@
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/五四运动史——周策纵.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-17"
   },
   {
@@ -676,7 +706,7 @@
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/南明史——顾诚.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-17"
   },
   {
@@ -766,7 +796,7 @@
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/邓小平时代.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2025-03-29"
   },
   {
@@ -776,7 +806,7 @@
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/中国历代政治得失——钱穆.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-08"
   },
   {
@@ -826,7 +856,7 @@
     "cate_level1": "中国历史",
     "cate_leaf": "中国历史",
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/天朝的崩溃——茅海建.md",
-    "score": 4.0,
+    "score": 5.0,
     "mtime": "2024-12-08"
   }
 ]

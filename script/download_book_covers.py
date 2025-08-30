@@ -1,10 +1,11 @@
 import os
 import re
 import requests
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # 配置路径
-TARGET_FOLDER = '/Users/zhezhang/Documents/Fun Knowledge/读书'
-IMG_FOLDER = '/Users/zhezhang/Documents/Fun Knowledge/img'
+TARGET_FOLDER = os.path.join(ROOT_DIR, '..', '读书')
+IMG_FOLDER = os.path.join(ROOT_DIR, '..', 'img')
 
 # 请求头，模拟浏览器访问
 HEADERS = {

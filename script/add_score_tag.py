@@ -1,8 +1,9 @@
 import os
 import re
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # 定义根目录
-root_dir = '/Users/zhezhang/Documents/Fun Knowledge/读书'
+root_dir = os.path.join(ROOT_DIR, '..', '读书')
 
 def process_file(file_path):
     try:

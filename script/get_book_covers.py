@@ -1,10 +1,11 @@
 import os
 import re
 import requests
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 from bs4 import BeautifulSoup
 
 # 配置路径
-TARGET_FOLDER = '/Users/zhezhang/Documents/Fun Knowledge/读书'
+TARGET_FOLDER = os.path.join(ROOT_DIR, '..', '读书')
 
 # 请求头，模拟浏览器访问
 HEADERS = {

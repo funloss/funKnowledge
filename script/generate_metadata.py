@@ -1,12 +1,12 @@
 import os
 import re
 import json
-import os
 import datetime
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # 配置路径
-TARGET_FOLDER = '/Users/zhezhang/Documents/Fun Knowledge/读书'
-OUTPUT_FILE = '/Users/zhezhang/Documents/Fun Knowledge/metaData.json'
+TARGET_FOLDER = os.path.join(ROOT_DIR, '..', '读书')
+OUTPUT_FILE = os.path.join(ROOT_DIR, '..', 'metaData.json')
 GITHUB_BASE_URL = 'https://github.com/funloss/funKnowledge/blob/main/'
 
 # 统计信息

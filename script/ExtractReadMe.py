@@ -1,4 +1,5 @@
 import os
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 
 def get_all_filenames(folder_path):
@@ -12,7 +13,7 @@ def get_all_filenames(folder_path):
 if __name__ == "__main__":
     file_path = 'README.md'
 
-    folder_path = './读书'  # 这里可以替换为你要遍历的文件夹路径
+    folder_path = os.path.join(ROOT_DIR, '..', '读书')  # 这里可以替换为你要遍历的文件夹路径
     all_filenames = get_all_filenames(folder_path)
 
     bookMap = {}

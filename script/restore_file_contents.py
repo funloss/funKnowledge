@@ -1,11 +1,12 @@
 import os
 import shutil
 import json
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 from datetime import datetime
 
 # 配置路径
-TARGET_FOLDER = '/Users/zhezhang/Documents/Fun Knowledge/读书/文学作品/陀思妥耶夫斯基'
-BACKUP_FOLDER = '/Users/zhezhang/Documents/Fun Knowledge/读书/文学作品/陀思妥耶夫斯基_backup'
+TARGET_FOLDER = os.path.join(ROOT_DIR, '..', '读书', '文学作品', '陀思妥耶夫斯基')
+BACKUP_FOLDER = os.path.join(ROOT_DIR, '..', '读书', '文学作品', '陀思妥耶夫斯基_backup')
 
 # 需要恢复的文件及其预期内容结构
 # 这里列出的是基于之前查看的内容和类似文件的结构
