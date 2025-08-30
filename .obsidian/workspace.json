@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/中国历史/五四运动史——周策纵.md",
+                "file": "读书/世界历史/太平洋三部曲/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "五四运动史——周策纵"
+              "title": "燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cover",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,8 +212,18 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "eeeb2e4e29a62c51",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "读书/世界历史/第三帝国的兴亡.md",
+    "读书/世界历史/和平戛然而止 ：通往1914年之路.md",
+    "读书/世界历史/太平洋三部曲/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.md",
+    "读书/世界历史/野蛮大陆：第二次世界大战后的欧洲.md",
+    "首页.md",
+    "gallery.base",
+    "读书/世界历史/奥斯维辛：一部历史.md",
+    "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
+    "script/generate_tags.py",
+    "读书/中国历史/五四运动史——周策纵.md",
     "img/遥远的桥.jpg",
     "img/最长的一天.jpg",
     "img/最后一役.jpg",
@@ -231,27 +241,18 @@
     "读书/文学作品/国外/百年孤独.md",
     "读书/文学作品/国外/伊甸之东.md",
     "读书/文学作品/国内/一句顶一万句.md",
-    "读书/世界历史/命运攸关的抉择——1940-1941年间改变世界的十个决策.md",
     "script/GenerateMermaid.py",
     "script_backup/GenerateMermaid.py",
     "script/get_book_covers.py",
     "script_backup/get_book_covers.py",
     "script/add_cover_tag.py",
     "script_backup/add_cover_tag.py",
-    "script/add_score_tag.py",
-    "script_backup/add_score_tag.py",
     "读书/世界历史/希特勒传.md",
-    "读书/世界历史/奥斯维辛：一部历史.md",
     "读书/世界历史/第三帝国三部曲/战时的第三帝国.md",
     "读书/世界历史/第三帝国三部曲/当权的第三帝国.md",
     "读书/世界历史/第三帝国三部曲/第三帝国的到来.md",
     "读书/世界历史/二战史诗三部曲/最长的一天.md",
     "读书/世界历史/二战史诗三部曲/最后一役.md",
-    "读书/世界历史/第三帝国的兴亡.md",
-    "读书/世界历史/二战史诗三部曲/遥远的桥.md",
-    "读书/世界历史/野蛮大陆：第二次世界大战后的欧洲.md",
-    "模板/读书笔记模板.md",
-    "模板/读书笔记with Prompt.md",
     "img/20250828-221312.jpeg",
     "20250828-221312.jpeg",
     "img/天朝的崩溃——茅海建.jpg",
@@ -259,7 +260,6 @@
     "img/巫蛊乱长安.jpg",
     "img/康熙的红票.jpg",
     "img/苏东坡传.jpg",
-    "img/中国历代政治得失——钱穆.jpg",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "未命名.canvas",

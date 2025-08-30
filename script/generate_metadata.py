@@ -2,6 +2,7 @@ import os
 import re
 import json
 import datetime
+import os
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # 配置路径
@@ -16,10 +17,11 @@ skipped_files = 0
 metadata_list = []
 
 def extract_frontmatter_data(content):
-    """从文件内容中提取YAML frontmatter中的douban_link, cover和score字段"""
+    """从文件内容中提取YAML frontmatter中的douban_link, cover, score和tags字段"""
     douban_url = None
     book_cover = None
     score = None
+    tags = []
     
     # 查找YAML frontmatter
     if content.startswith('---'):
@@ -46,7 +48,16 @@ def extract_frontmatter_data(content):
     if score_match:
         score = float(score_match.group(1))
     
-    return douban_url, book_cover, score
+    # 提取tags
+    # 查找tags:部分
+    tags_section_match = re.search(r'tags:\s*\n([\s\S]*?)(?=\n[^\s-]|\Z)', yaml_content)
+    if tags_section_match:
+        tags_section = tags_section_match.group(1)
+        # 提取所有以-开头的标签
+        tag_matches = re.findall(r'-\s*(\S+)', tags_section)
+        tags = tag_matches
+    
+    return douban_url, book_cover, score, tags
 
 def generate_github_url(file_path):
     """生成GitHub URL"""
@@ -110,7 +121,7 @@ def generate_metadata():
             
             # 提取书籍信息
             book_name = os.path.splitext(filename)[0]  # 去掉.md扩展名
-            douban_url, _, score = extract_frontmatter_data(content)  # 不再需要提取原始的cover字段
+            douban_url, _, score, tags = extract_frontmatter_data(content)  # 提取tags字段
             
             # 检查必要字段
             if not douban_url:
@@ -148,7 +159,8 @@ def generate_metadata():
                 "cate_leaf": cate_leaf,
                 "githubUrl": github_url,
                 "score": score,  # 添加score字段
-                "mtime": mtime_str  # 添加mtime字段（文件创建日期）
+                "mtime": mtime_str,  # 添加mtime字段（文件创建日期）
+                "tags": tags  # 添加tags字段，值为标签字符串数组
             }
             
             # 添加到列表
