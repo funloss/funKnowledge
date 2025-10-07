@@ -15,7 +15,7 @@ views:
     sort:
       - property: score
         direction: DESC
-      - property: file.mtime
+      - property: file.ctime
         direction: DESC
     image: note.cover
     imageFit: ""
