@@ -816,6 +816,23 @@
     ]
   },
   {
+    "bookName": "生活与命运",
+    "doubanUrl": "https://book.douban.com/subject/26394018/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/生活与命运.jpg",
+    "cate_level1": "文学作品",
+    "cate_leaf": "国外",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/生活与命运.md",
+    "score": 4.0,
+    "mtime": "2025-10-07",
+    "tags": [
+      "斯大林格勒战役",
+      "极权主义比较",
+      "胜利代价后果",
+      "道德困境选择",
+      "人性扭曲考验"
+    ]
+  },
+  {
     "bookName": "刀锋",
     "doubanUrl": "https://book.douban.com/subject/35197280/",
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/刀锋.jpg",

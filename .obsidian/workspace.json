@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "读书/世界历史/欧洲告急——丘吉尔、奥威尔与自由之战.md",
+                "file": "读书/文学作品/国外/生活与命运.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "欧洲告急——丘吉尔、奥威尔与自由之战"
+              "title": "生活与命运"
             }
           }
         ]
@@ -214,6 +214,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "img/生活与命运.jpg",
+    "读书/世界历史/欧洲告急——丘吉尔、奥威尔与自由之战.md",
+    "读书/文学作品/国外/生活与命运.md",
     "img/欧洲告急——丘吉尔、奥威尔与自由之战.jpg",
     "首页.md",
     "读书/世界历史/未命名.md",
@@ -243,9 +246,7 @@
     "影视/yesMinister",
     "gallery.base",
     "读书/世界历史/零年：1945·现代世界诞生的时刻.md",
-    "读书/世界历史/太平洋三部曲/燃烧的大洋——1941—1942，从突袭珍珠港到中途岛战役.md",
     "未命名.canvas",
-    "读书/世界历史/第三帝国的兴亡.md",
     "script/generate_tags.py",
     "img/遥远的桥.jpg",
     "img/最长的一天.jpg",
@@ -260,7 +261,6 @@
     "img/孤星之旅：苏东坡传.jpg",
     "img/巫蛊乱长安.jpg",
     "img/康熙的红票.jpg",
-    "img/苏东坡传.jpg",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "未命名 1.canvas"
