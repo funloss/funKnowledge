@@ -1,5 +1,5 @@
 {
-  "userId": "560d1867-0747-4e20-8e3b-f016bd14bfe1",
+  "userId": "06db4169-9820-40e9-9f32-36369c5e1044",
   "isPlusUser": false,
   "plusLicenseKey": "",
   "openAIApiKey": "",
@@ -12,14 +12,14 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "AIzaSyDkYla2hh0GjSC0-nxKWVsTDsUI5jhjpFc",
+  "googleApiKey": "",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
-  "deepseekApiKey": "",
+  "deepseekApiKey": "sk-d18f6fc55e5f4f65bb2be6e3795ec130",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gemini-2.5-pro|google",
-  "embeddingModelKey": "text-embedding-004|google",
+  "defaultModelKey": "deepseek-chat|deepseek",
+  "embeddingModelKey": "embed-multilingual-light-v3.0|cohereai",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -27,21 +27,21 @@
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
-  "defaultSaveFolder": "copilot-conversations",
+  "defaultSaveFolder": "copilot/copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": false,
   "includeActiveNoteAsContext": true,
-  "defaultOpenArea": "editor",
-  "customPromptsFolder": "copilot-custom-prompts",
+  "defaultOpenArea": "view",
+  "customPromptsFolder": "copilot/copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
-  "qaExclusions": "copilot-conversations,copilot-custom-prompts",
+  "qaExclusions": "copilot",
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
   "enableIndexSync": true,
   "debug": false,
   "enableEncryption": false,
-  "maxSourceChunks": 3,
+  "maxSourceChunks": 15,
   "groqApiKey": "",
   "activeModels": [
     {
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "name": "google/gemini-2.5-flash-lite-preview-06-17",
+      "name": "google/gemini-2.5-flash-lite",
       "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
@@ -90,6 +90,36 @@
       ]
     },
     {
+      "name": "gpt-5",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5-mini",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
+      "name": "gpt-5-nano",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
+      "core": true,
+      "capabilities": [
+        "vision"
+      ]
+    },
+    {
       "name": "gpt-4.1",
       "provider": "openai",
       "enabled": true,
@@ -112,31 +142,40 @@
       ]
     },
     {
-      "name": "gpt-4.1-nano",
-      "provider": "openai",
+      "name": "openai/gpt-4.1",
+      "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
-      "core": true,
+      "core": false,
+      "projectEnabled": true,
       "capabilities": [
         "vision"
       ]
     },
     {
-      "name": "o4-mini",
-      "provider": "openai",
+      "name": "openai/gpt-4.1-mini",
+      "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
-      "core": true,
+      "core": false,
+      "projectEnabled": true,
       "capabilities": [
-        "reasoning"
+        "vision"
       ]
     },
     {
-      "name": "claude-3-5-sonnet-latest",
-      "provider": "anthropic",
+      "name": "x-ai/grok-4-fast:free",
+      "provider": "openrouterai",
       "enabled": true,
       "isBuiltIn": true,
-      "core": true,
+      "core": false,
+      "projectEnabled": true
+    },
+    {
+      "name": "gpt-4.1-nano",
+      "provider": "openai",
+      "enabled": true,
+      "isBuiltIn": true,
       "capabilities": [
         "vision"
       ]
@@ -162,12 +201,6 @@
       ]
     },
     {
-      "name": "claude-3-5-haiku-latest",
-      "provider": "anthropic",
-      "enabled": true,
-      "isBuiltIn": true
-    },
-    {
       "name": "grok-3-beta",
       "provider": "xai",
       "enabled": true,
@@ -190,7 +223,7 @@
       ]
     },
     {
-      "name": "gemini-2.5-pro",
+      "name": "gemini-2.5-flash-lite",
       "provider": "google",
       "enabled": true,
       "isBuiltIn": true,
@@ -200,16 +233,14 @@
       ]
     },
     {
-      "name": "command-r",
-      "provider": "cohereai",
+      "name": "gemini-2.5-pro",
+      "provider": "google",
       "enabled": true,
-      "isBuiltIn": true
-    },
-    {
-      "name": "command-r-plus",
-      "provider": "cohereai",
-      "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "projectEnabled": true,
+      "capabilities": [
+        "vision"
+      ]
     },
     {
       "name": "azure-openai",
@@ -273,6 +304,14 @@
       "core": true
     },
     {
+      "name": "gemini-embedding-001",
+      "provider": "google",
+      "enabled": true,
+      "isBuiltIn": true,
+      "isEmbeddingModel": true,
+      "core": true
+    },
+    {
       "name": "text-embedding-3-large",
       "provider": "openai",
       "enabled": true,
@@ -301,10 +340,10 @@
       "isEmbeddingModel": true
     }
   ],
-  "embeddingRequestsPerMin": 90,
+  "embeddingRequestsPerMin": 60,
   "embeddingBatchSize": 16,
   "disableIndexOnMobile": true,
-  "showSuggestedPrompts": true,
+  "showSuggestedPrompts": false,
   "showRelevantNotes": true,
   "numPartitions": 1,
   "promptUsageTimestamps": {},
@@ -319,5 +358,22 @@
   "lastDismissedVersion": null,
   "passMarkdownImages": true,
   "enableCustomPromptTemplating": true,
-  "suggestedDefaultCommands": true
+  "suggestedDefaultCommands": false,
+  "lexicalSearchRamLimit": 100,
+  "generateAIChatTitleOnSave": true,
+  "enableInlineCitations": true,
+  "autonomousAgentMaxIterations": 4,
+  "autonomousAgentEnabledToolIds": [
+    "localSearch",
+    "webSearch",
+    "pomodoro",
+    "youtubeTranscription",
+    "writeToFile",
+    "replaceInFile"
+  ],
+  "enableAutonomousAgent": false,
+  "enableSemanticSearchV3": false,
+  "enableLexicalBoosts": true,
+  "reasoningEffort": "low",
+  "verbosity": "medium"
 }

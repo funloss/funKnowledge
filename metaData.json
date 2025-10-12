@@ -221,6 +221,23 @@
     ]
   },
   {
+    "bookName": "伦敦日记",
+    "doubanUrl": "https://book.douban.com/subject/35568308/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/伦敦日记.jpg",
+    "cate_level1": "世界历史",
+    "cate_leaf": "世界历史",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/伦敦日记.md",
+    "score": 5.0,
+    "mtime": "2025-10-12",
+    "tags": [
+      "伊万·迈斯基",
+      "外交官日记",
+      "绥靖政策",
+      "二战外交",
+      "英苏关系"
+    ]
+  },
+  {
     "bookName": "愚蠢的核弹",
     "doubanUrl": "https://book.douban.com/subject/36480234/",
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/愚蠢的核弹.jpg",
