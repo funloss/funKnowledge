@@ -221,6 +221,40 @@
     ]
   },
   {
+    "bookName": "漫步华尔街",
+    "doubanUrl": "https://book.douban.com/subject/3043970/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/漫步华尔街.jpg",
+    "cate_level1": "未读过的书",
+    "cate_leaf": "未读过的书",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/漫步华尔街.md",
+    "score": 4.0,
+    "mtime": "2025-12-01",
+    "tags": [
+      "指数基金投资",
+      "有效市场假说",
+      "技术分析批判",
+      "随机漫步理论",
+      "资产配置策略"
+    ]
+  },
+  {
+    "bookName": "复利：全球顶尖投资者的31节认知与决策思维课",
+    "doubanUrl": "https://book.douban.com/subject/36998491/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/复利：全球顶尖投资者的31节认知与决策思维课.jpg",
+    "cate_level1": "未读过的书",
+    "cate_leaf": "未读过的书",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/复利：全球顶尖投资者的31节认知与决策思维课.md",
+    "score": 4.0,
+    "mtime": "2025-12-01",
+    "tags": [
+      "护城河理论",
+      "复利效应",
+      "反向思考",
+      "多元思维模型",
+      "行为优势"
+    ]
+  },
+  {
     "bookName": "1945年的六个月",
     "doubanUrl": "https://book.douban.com/subject/35232623/",
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/1945年的六个月.jpg",
@@ -711,6 +745,40 @@
       "十月革命角色",
       "不断革命论",
       "红军创建者"
+    ]
+  },
+  {
+    "bookName": "被解除武装的先知",
+    "doubanUrl": "https://book.douban.com/subject/35572759/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/被解除武装的先知.jpg",
+    "cate_level1": "世界历史",
+    "cate_leaf": "先知三部曲",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/先知三部曲/被解除武装的先知.md",
+    "score": 4.0,
+    "mtime": "2026-01-03",
+    "tags": [
+      "斯大林政治权谋",
+      "党内官僚化过程",
+      "不断革命论争议",
+      "革命者性格悲剧",
+      "托洛茨基权力斗争"
+    ]
+  },
+  {
+    "bookName": "流亡的先知",
+    "doubanUrl": "https://book.douban.com/subject/35572760/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/流亡的先知.jpg",
+    "cate_level1": "世界历史",
+    "cate_leaf": "先知三部曲",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/世界历史/先知三部曲/流亡的先知.md",
+    "score": 4.0,
+    "mtime": "2026-01-03",
+    "tags": [
+      "托洛茨基流亡",
+      "失败中的胜利",
+      "纳粹崛起预言",
+      "历史解释权争夺",
+      "苏联官僚化批判"
     ]
   },
   {

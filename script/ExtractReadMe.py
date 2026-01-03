@@ -15,11 +15,14 @@ if __name__ == "__main__":
 
     folder_path = os.path.join(ROOT_DIR, '..', '读书')  # 这里可以替换为你要遍历的文件夹路径
     all_filenames = get_all_filenames(folder_path)
+    print(all_filenames)
 
     bookMap = {}
     bookLinkMap = {}
 
     for filename in all_filenames:
+        if "DS_Store" in filename:
+            continue
         cateName = filename.split("/")[2]
         bookName = filename.split("/")[-1].replace(".md", "")
         if cateName not in bookMap.keys():
