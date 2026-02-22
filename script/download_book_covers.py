@@ -1,5 +1,6 @@
 import os
 import re
+import time
 import requests
 ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -7,9 +8,17 @@ ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 TARGET_FOLDER = os.path.join(ROOT_DIR, '..', '读书')
 IMG_FOLDER = os.path.join(ROOT_DIR, '..', 'img')
 
-# 请求头，模拟浏览器访问
+# 请求头，尽量贴近浏览器（豆瓣等会校验 Referer，否则易 418）
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+    'Sec-Fetch-Dest': 'image',
+    'Sec-Fetch-Mode': 'no-cors',
+    'Sec-Fetch-Site': 'none',
 }
 
 # 统计信息
@@ -46,22 +55,41 @@ def extract_cover_url(content):
     
     return None
 
+def _is_douban_image_url(url):
+    """判断是否为豆瓣图片链接（需带 Referer 否则易 418）"""
+    return 'douban.com' in url or 'doubanio.com' in url
+
+
 def download_image(image_url, save_path):
-    """下载图片并保存到指定路径"""
-    try:
-        # 发送请求
-        response = requests.get(image_url, headers=HEADERS, timeout=10, stream=True)
-        response.raise_for_status()
-        
-        # 保存图片
-        with open(save_path, 'wb') as f:
-            for chunk in response.iter_content(chunk_size=8192):
-                f.write(chunk)
-        
-        return True
-    except Exception as e:
-        print(f"下载图片失败: {image_url}, 错误: {str(e)}")
-        return False
+    """下载图片并保存到指定路径。豆瓣图源带 Referer 并支持 418 重试。"""
+    session = requests.Session()
+    session.headers.update(HEADERS)
+    # 豆瓣图源必须带 Referer，否则易被拒绝
+    if _is_douban_image_url(image_url):
+        session.headers['Referer'] = 'https://book.douban.com/'
+    for attempt in range(2):
+        try:
+            r = session.get(image_url, timeout=15, stream=True)
+            r.raise_for_status()
+            ct = (r.headers.get('Content-Type') or '').lower()
+            if 'image' not in ct and 'octet-stream' not in ct:
+                print(f"非图片响应: {image_url[:80]}..., Content-Type: {ct}")
+                return False
+            with open(save_path, 'wb') as f:
+                for chunk in r.iter_content(chunk_size=8192):
+                    f.write(chunk)
+            return True
+        except requests.HTTPError as e:
+            if e.response.status_code == 418 and attempt == 0:
+                print(f"418 被拒绝，3 秒后重试: {image_url[:60]}...")
+                time.sleep(3)
+                continue
+            print(f"下载图片失败: {image_url}, HTTP {e.response.status_code} {e.response.reason}")
+            return False
+        except Exception as e:
+            print(f"下载图片失败: {image_url}, 错误: {str(e)}")
+            return False
+    return False
 
 def download_book_covers():
     """下载所有书籍封面图片"""
@@ -117,6 +145,8 @@ def download_book_covers():
             if download_image(cover_url, save_path):
                 downloaded_count += 1
                 processed_files += 1
+                if _is_douban_image_url(cover_url):
+                    time.sleep(1.0)  # 豆瓣图源稍作间隔，降低限流概率
             else:
                 skipped_files += 1
     

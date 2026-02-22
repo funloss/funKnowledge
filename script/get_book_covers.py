@@ -243,6 +243,13 @@ def process_files():
             # 用同一 Session 先访问书籍页再下载封面，避免 418
             cover_value = fetch_and_download_cover(douban_link, file_path)
             if not cover_value:
+                try:
+                    from get_book_cover_from_google import fetch_and_download_cover_from_google
+                    print(f"豆瓣未获取到封面，尝试谷歌图片备选: {file_path}")
+                    cover_value = fetch_and_download_cover_from_google(file_path)
+                except ImportError:
+                    pass
+            if not cover_value:
                 skipped_files += 1
                 continue
 
