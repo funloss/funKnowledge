@@ -4,9 +4,9 @@
   "dataview",
   "mermaid-tools",
   "contribution-graph",
-  "components",
   "homepage",
   "obsidian-mind-map",
   "calendar",
-  "copilot"
+  "copilot",
+  "components"
 ]

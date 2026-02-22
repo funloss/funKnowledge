@@ -850,6 +850,23 @@
     ]
   },
   {
+    "bookName": "哲学家的最后一课",
+    "doubanUrl": "https://book.douban.com/subject/37269363/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/哲学家的最后一课.jpg",
+    "cate_level1": "哲学",
+    "cate_leaf": "哲学",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/哲学家的最后一课.md",
+    "score": 4.0,
+    "mtime": "2026-02-22",
+    "tags": [
+      "中西生死观比较",
+      "死亡认知史",
+      "朱锐生命哲学研究",
+      "生命价值重构",
+      "临终对话实践"
+    ]
+  },
+  {
     "bookName": "成为波伏瓦",
     "doubanUrl": "https://book.douban.com/subject/35317169/",
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/成为波伏瓦.jpg",
@@ -881,6 +898,23 @@
       "自由",
       "生存哲学",
       "存在论"
+    ]
+  },
+  {
+    "bookName": "企鹅哲学史",
+    "doubanUrl": "https://book.douban.com/subject/36178199/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/企鹅哲学史.jpg",
+    "cate_level1": "哲学",
+    "cate_leaf": "哲学",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/企鹅哲学史.md",
+    "score": 4.0,
+    "mtime": "2026-02-22",
+    "tags": [
+      "哲学神学决裂",
+      "语言学转向",
+      "理性启蒙",
+      "认识论转向",
+      "神学婢女"
     ]
   },
   {
@@ -932,6 +966,23 @@
       "中世纪哲学",
       "古希腊哲学",
       "存在主义"
+    ]
+  },
+  {
+    "bookName": "做哲学",
+    "doubanUrl": "https://book.douban.com/subject/30136393/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/做哲学.jpg",
+    "cate_level1": "哲学",
+    "cate_leaf": "哲学",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/哲学/做哲学.md",
+    "score": 5.0,
+    "mtime": "2026-02-22",
+    "tags": [
+      "道德哲学",
+      "心身问题",
+      "思想实验",
+      "人格同一性",
+      "自由意志"
     ]
   },
   {
@@ -1326,6 +1377,17 @@
     ]
   },
   {
+    "bookName": "生死疲劳",
+    "doubanUrl": "https://book.douban.com/subject/37830730/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/生死疲劳.jpg",
+    "cate_level1": "文学作品",
+    "cate_leaf": "国内",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/生死疲劳.md",
+    "score": 5.0,
+    "mtime": "2026-02-22",
+    "tags": []
+  },
+  {
     "bookName": "一句顶一万句",
     "doubanUrl": "https://book.douban.com/subject/36062390/",
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/一句顶一万句.jpg",
@@ -1340,6 +1402,23 @@
       "寻找叙事陷阱",
       "非对称沟通",
       "存在主义孤独"
+    ]
+  },
+  {
+    "bookName": "檀香刑",
+    "doubanUrl": "https://book.douban.com/subject/37332458/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/檀香刑.jpg",
+    "cate_level1": "文学作品",
+    "cate_leaf": "国内",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/檀香刑.md",
+    "score": 4.0,
+    "mtime": "2026-02-22",
+    "tags": [
+      "义和团运动",
+      "胶济铁路",
+      "猫腔",
+      "魔幻现实主义",
+      "檀香刑"
     ]
   },
   {

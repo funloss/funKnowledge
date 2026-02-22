@@ -21,7 +21,7 @@ if __name__ == "__main__":
     bookLinkMap = {}
 
     for filename in all_filenames:
-        if "DS_Store" in filename:
+        if "DS_Store" in filename or "attachments" in filename:
             continue
         cateName = filename.split("/")[2]
         bookName = filename.split("/")[-1].replace(".md", "")
