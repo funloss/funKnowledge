@@ -7,71 +7,88 @@ from bs4 import BeautifulSoup
 # 配置路径
 TARGET_FOLDER = os.path.join(ROOT_DIR, '..', '读书')
 
-# 请求头，模拟浏览器访问
+# 请求头，模拟浏览器访问（豆瓣会校验 Referer，图片请求需带 book.douban.com）
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
 }
+# 请求图片时需带 Referer，否则豆瓣 CDN 返回 418 拒绝
+IMAGE_HEADERS = {
+    **HEADERS,
+    'Referer': 'https://book.douban.com/',
+}
+
+# 封面保存文件名（与 md 同目录）
+COVER_FILENAME = 'cover.jpg'
 
 def get_cover_image_url(douban_link):
-    """从豆瓣链接获取封面图片URL"""
+    """从豆瓣链接获取封面图片 URL（用于下载，豆瓣禁止外链故需下载到本地使用）。"""
     try:
-        # 发送请求
         response = requests.get(douban_link, headers=HEADERS, timeout=10)
         response.raise_for_status()
-        
-        # 解析HTML
         soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # 查找封面图片 - 尝试多种方式
-        # 方式1: 查找id为mainpic的元素
+
+        cover_url = None
+        # 方式1: id=mainpic，优先用父级 a.nbg 的 href（大图），否则用 img 的 src
         mainpic_div = soup.find('div', id='mainpic')
         if mainpic_div:
-            img_tag = mainpic_div.find('img')
-            if img_tag and 'src' in img_tag.attrs:
-                cover_url = img_tag['src']
-            else:
-                print(f"无法找到图片URL: {douban_link}")
-                return None
-        else:
-            # 方式2: 查找class为book-cover的元素
+            nbg_a = mainpic_div.find('a', class_='nbg')
+            if nbg_a and nbg_a.get('href'):
+                cover_url = nbg_a['href']
+            if not cover_url:
+                img_tag = mainpic_div.find('img')
+                if img_tag and img_tag.get('src'):
+                    cover_url = img_tag['src']
+                    # 豆瓣小图路径为 .../s/public/...，改为 l/public 得大图
+                    if '/s/public/' in cover_url:
+                        cover_url = cover_url.replace('/s/public/', '/l/public/')
+        if not cover_url:
             cover_div = soup.find('div', class_='book-cover')
             if cover_div:
                 img_tag = cover_div.find('img')
-                if img_tag and 'src' in img_tag.attrs:
+                if img_tag and img_tag.get('src'):
                     cover_url = img_tag['src']
-                else:
-                    print(f"无法找到图片URL: {douban_link}")
-                    return None
-            else:
-                # 方式3: 查找所有img标签，筛选alt包含书名的
-                img_tags = soup.find_all('img')
-                for img in img_tags:
-                    if 'alt' in img.attrs and '封面' in img['alt']:
-                        cover_url = img['src']
-                        break
-                else:
-                    print(f"无法找到封面图片: {douban_link}")
-                    return None
-        
-        # 确保URL是完整的
+                    if '/s/public/' in cover_url:
+                        cover_url = cover_url.replace('/s/public/', '/l/public/')
+        if not cover_url:
+            for img in soup.find_all('img'):
+                if img.get('alt') and '封面' in img['alt'] and img.get('src'):
+                    cover_url = img['src']
+                    if '/s/public/' in cover_url:
+                        cover_url = cover_url.replace('/s/public/', '/l/public/')
+                    break
+
+        if not cover_url:
+            print(f"无法找到封面图片: {douban_link}")
+            return None
         if not cover_url.startswith('http'):
             cover_url = 'https:' + cover_url
-        
-        # 移除可能的尺寸限制参数
-        if 's_' in cover_url:
-            cover_url = cover_url.replace('s_', '')
-        elif 'm_' in cover_url:
-            cover_url = cover_url.replace('m_', '')
-        elif '.jpg' in cover_url and '://' in cover_url:
-            # 如果URL已经是完整的高清图，直接使用
-            pass
-        else:
-            # 添加默认尺寸参数
-            cover_url = cover_url.split('?')[0] + '?imageView2/1/w/500/h/750'
-        
         return cover_url
     except Exception as e:
         print(f"获取封面图片失败: {douban_link}, 错误: {str(e)}")
+        return None
+
+
+def download_cover_to_local(cover_url, md_file_path):
+    """
+    用带 Referer 的请求下载封面到 md 所在目录，文件名为 cover.jpg。
+    返回用于 frontmatter 的本地相对路径（相对该 md 文件），失败返回 None。
+    """
+    try:
+        r = requests.get(cover_url, headers=IMAGE_HEADERS, timeout=15)
+        r.raise_for_status()
+        content_type = r.headers.get('Content-Type', '')
+        if 'image' not in content_type:
+            print(f"非图片响应: {cover_url}, Content-Type: {content_type}")
+            return None
+        folder = os.path.dirname(md_file_path)
+        os.makedirs(folder, exist_ok=True)
+        local_path = os.path.join(folder, COVER_FILENAME)
+        with open(local_path, 'wb') as f:
+            f.write(r.content)
+        # frontmatter 里使用相对当前 md 的路径，同目录即文件名
+        return COVER_FILENAME
+    except Exception as e:
+        print(f"下载封面失败: {cover_url}, 错误: {str(e)}")
         return None
 
 def update_cover_in_file(file_path, cover_url):
@@ -139,36 +156,61 @@ def process_files():
                 skipped_files += 1
                 continue
             
-            # 检查cover字段是否已有值
-            cover_match = re.search(r'cover: (https://.*)', content)
+            # 检查 cover 字段是否已有值（URL 或本地路径都视为已有）
+            cover_match = re.search(r'cover:\s*(.+)', content)
             if cover_match and cover_match.group(1).strip():
-                print(f"cover字段已有值，跳过文件: {file_path}")
+                print(f"cover 字段已有值，跳过文件: {file_path}")
                 skipped_files += 1
                 continue
-            
+
             # 提取豆瓣链接
             douban_match = re.search(r'douban_link: (https://book\.douban\.com/subject/\d+/)', content)
             if not douban_match:
                 print(f"未找到豆瓣链接: {file_path}")
                 skipped_files += 1
                 continue
-            
+
             douban_link = douban_match.group(1)
             print(f"找到豆瓣链接: {douban_link}")
-            
-            # 获取封面图片URL
+
+            # 获取封面图片 URL 并下载到本地（豆瓣禁止外链，直接写 URL 会 418）
             cover_url = get_cover_image_url(douban_link)
             if not cover_url:
                 skipped_files += 1
                 continue
-            
-            # 更新文件
-            if update_cover_in_file(file_path, cover_url):
+            cover_value = download_cover_to_local(cover_url, file_path)
+            if not cover_value:
+                skipped_files += 1
+                continue
+
+            # 更新文件中的 cover 为本地路径
+            if update_cover_in_file(file_path, cover_value):
                 processed_files += 1
             else:
                 skipped_files += 1
     
     print(f"所有文件处理完成! 共处理 {total_files} 个文件，其中 {processed_files} 个文件已更新，{skipped_files} 个文件被跳过。")
 
+def test_single_url(douban_link, save_dir=None):
+    """仅测试：从豆瓣链接获取并下载封面到指定目录。不处理 md 文件。"""
+    save_dir = save_dir or ROOT_DIR
+    md_dummy = os.path.join(save_dir, '_dummy.md')
+    print(f"测试链接: {douban_link}")
+    cover_url = get_cover_image_url(douban_link)
+    if not cover_url:
+        print("获取封面 URL 失败")
+        return
+    print(f"封面 URL: {cover_url}")
+    local = download_cover_to_local(cover_url, md_dummy)
+    if local:
+        print(f"已保存为: {os.path.join(save_dir, COVER_FILENAME)}")
+    else:
+        print("下载封面失败")
+
+
 if __name__ == '__main__':
-    process_files()
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1].startswith('http'):
+        test_single_url(sys.argv[1])
+    else:
+        process_files()
