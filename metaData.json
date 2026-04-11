@@ -85,176 +85,6 @@
     ]
   },
   {
-    "bookName": "海龟交易法则",
-    "doubanUrl": "https://book.douban.com/subject/24325274/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/海龟交易法则.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/海龟交易法则.md",
-    "score": 4.0,
-    "mtime": "2025-11-30",
-    "tags": [
-      "资金管理模型",
-      "波动性标准化",
-      "心理纪律执行",
-      "趋势跟踪策略",
-      "海龟交易法则"
-    ]
-  },
-  {
-    "bookName": "置身事内",
-    "doubanUrl": "https://book.douban.com/subject/35546622/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/置身事内.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/置身事内.md",
-    "score": 4.0,
-    "mtime": "2025-11-30",
-    "tags": [
-      "产业引导基金",
-      "中国政府角色",
-      "分税制改革",
-      "土地金融",
-      "城投公司"
-    ]
-  },
-  {
-    "bookName": "小岛经济学",
-    "doubanUrl": "https://book.douban.com/subject/26985299/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/小岛经济学.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/小岛经济学.md",
-    "score": 4.0,
-    "mtime": "2025-11-30",
-    "tags": [
-      "债务经济隐患",
-      "生产驱动经济",
-      "金融危机根源",
-      "储蓄资本积累",
-      "通货膨胀本质"
-    ]
-  },
-  {
-    "bookName": "聪明的投资者",
-    "doubanUrl": "https://book.douban.com/subject/5243775/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/聪明的投资者.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/聪明的投资者.md",
-    "score": 4.0,
-    "mtime": "2025-11-30",
-    "tags": [
-      "市场先生",
-      "投资者类型划分",
-      "格雷厄姆投资理论",
-      "安全边际",
-      "投资与投机"
-    ]
-  },
-  {
-    "bookName": "股票作手回忆录",
-    "doubanUrl": "https://book.douban.com/subject/6974582/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/股票作手回忆录.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/股票作手回忆录.md",
-    "score": 4.0,
-    "mtime": "2025-11-30",
-    "tags": [
-      "最小阻力线",
-      "关键点交易",
-      "金字塔建仓",
-      "行为金融学",
-      "投机心理"
-    ]
-  },
-  {
-    "bookName": "通往财务自由之路",
-    "doubanUrl": "https://book.douban.com/subject/5917261/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/通往财务自由之路.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/通往财务自由之路.md",
-    "score": 4.0,
-    "mtime": "2025-11-30",
-    "tags": [
-      "头寸规模管理",
-      "交易心理分析",
-      "交易系统构建",
-      "R乘数概念",
-      "期望值计算"
-    ]
-  },
-  {
-    "bookName": "穷查理宝典",
-    "doubanUrl": "https://book.douban.com/subject/26831789/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/穷查理宝典.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/穷查理宝典.md",
-    "score": 4.0,
-    "mtime": "2025-11-30",
-    "tags": [
-      "Lollapalooza效应",
-      "逆向思维",
-      "多元思维模型",
-      "理性决策",
-      "人类误判心理学"
-    ]
-  },
-  {
-    "bookName": "交易心理分析",
-    "doubanUrl": "https://book.douban.com/subject/5976544/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/交易心理分析.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/交易心理分析.md",
-    "score": 4.0,
-    "mtime": "2025-11-30",
-    "tags": [
-      "五大基本真理",
-      "交易心流状态",
-      "机械执行训练",
-      "交易心理分析",
-      "概率思维"
-    ]
-  },
-  {
-    "bookName": "漫步华尔街",
-    "doubanUrl": "https://book.douban.com/subject/3043970/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/漫步华尔街.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/漫步华尔街.md",
-    "score": 4.0,
-    "mtime": "2025-12-01",
-    "tags": [
-      "指数基金投资",
-      "有效市场假说",
-      "技术分析批判",
-      "随机漫步理论",
-      "资产配置策略"
-    ]
-  },
-  {
-    "bookName": "复利：全球顶尖投资者的31节认知与决策思维课",
-    "doubanUrl": "https://book.douban.com/subject/36998491/",
-    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/复利：全球顶尖投资者的31节认知与决策思维课.jpg",
-    "cate_level1": "未读过的书",
-    "cate_leaf": "未读过的书",
-    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/未读过的书/复利：全球顶尖投资者的31节认知与决策思维课.md",
-    "score": 4.0,
-    "mtime": "2025-12-01",
-    "tags": [
-      "护城河理论",
-      "复利效应",
-      "反向思考",
-      "多元思维模型",
-      "行为优势"
-    ]
-  },
-  {
     "bookName": "1945年的六个月",
     "doubanUrl": "https://book.douban.com/subject/35232623/",
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/1945年的六个月.jpg",
@@ -833,6 +663,176 @@
     ]
   },
   {
+    "bookName": "海龟交易法则",
+    "doubanUrl": "https://book.douban.com/subject/24325274/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/海龟交易法则.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/海龟交易法则.md",
+    "score": 4.0,
+    "mtime": "2025-11-30",
+    "tags": [
+      "资金管理模型",
+      "波动性标准化",
+      "心理纪律执行",
+      "趋势跟踪策略",
+      "海龟交易法则"
+    ]
+  },
+  {
+    "bookName": "置身事内",
+    "doubanUrl": "https://book.douban.com/subject/35546622/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/置身事内.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/置身事内.md",
+    "score": 4.0,
+    "mtime": "2025-11-30",
+    "tags": [
+      "产业引导基金",
+      "中国政府角色",
+      "分税制改革",
+      "土地金融",
+      "城投公司"
+    ]
+  },
+  {
+    "bookName": "小岛经济学",
+    "doubanUrl": "https://book.douban.com/subject/26985299/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/小岛经济学.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/小岛经济学.md",
+    "score": 4.0,
+    "mtime": "2025-11-30",
+    "tags": [
+      "债务经济隐患",
+      "生产驱动经济",
+      "金融危机根源",
+      "储蓄资本积累",
+      "通货膨胀本质"
+    ]
+  },
+  {
+    "bookName": "聪明的投资者",
+    "doubanUrl": "https://book.douban.com/subject/5243775/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/聪明的投资者.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/聪明的投资者.md",
+    "score": 4.0,
+    "mtime": "2025-11-30",
+    "tags": [
+      "市场先生",
+      "投资者类型划分",
+      "格雷厄姆投资理论",
+      "安全边际",
+      "投资与投机"
+    ]
+  },
+  {
+    "bookName": "股票作手回忆录",
+    "doubanUrl": "https://book.douban.com/subject/6974582/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/股票作手回忆录.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/股票作手回忆录.md",
+    "score": 4.0,
+    "mtime": "2025-11-30",
+    "tags": [
+      "最小阻力线",
+      "关键点交易",
+      "金字塔建仓",
+      "行为金融学",
+      "投机心理"
+    ]
+  },
+  {
+    "bookName": "通往财务自由之路",
+    "doubanUrl": "https://book.douban.com/subject/5917261/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/通往财务自由之路.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/通往财务自由之路.md",
+    "score": 4.0,
+    "mtime": "2025-11-30",
+    "tags": [
+      "头寸规模管理",
+      "交易心理分析",
+      "交易系统构建",
+      "R乘数概念",
+      "期望值计算"
+    ]
+  },
+  {
+    "bookName": "穷查理宝典",
+    "doubanUrl": "https://book.douban.com/subject/26831789/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/穷查理宝典.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/穷查理宝典.md",
+    "score": 4.0,
+    "mtime": "2025-11-30",
+    "tags": [
+      "Lollapalooza效应",
+      "逆向思维",
+      "多元思维模型",
+      "理性决策",
+      "人类误判心理学"
+    ]
+  },
+  {
+    "bookName": "交易心理分析",
+    "doubanUrl": "https://book.douban.com/subject/5976544/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/交易心理分析.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/交易心理分析.md",
+    "score": 4.0,
+    "mtime": "2025-11-30",
+    "tags": [
+      "五大基本真理",
+      "交易心流状态",
+      "机械执行训练",
+      "交易心理分析",
+      "概率思维"
+    ]
+  },
+  {
+    "bookName": "漫步华尔街",
+    "doubanUrl": "https://book.douban.com/subject/3043970/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/漫步华尔街.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/漫步华尔街.md",
+    "score": 4.0,
+    "mtime": "2025-12-01",
+    "tags": [
+      "指数基金投资",
+      "有效市场假说",
+      "技术分析批判",
+      "随机漫步理论",
+      "资产配置策略"
+    ]
+  },
+  {
+    "bookName": "复利：全球顶尖投资者的31节认知与决策思维课",
+    "doubanUrl": "https://book.douban.com/subject/36998491/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/复利：全球顶尖投资者的31节认知与决策思维课.jpg",
+    "cate_level1": "金融财经",
+    "cate_leaf": "金融财经",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/金融财经/复利：全球顶尖投资者的31节认知与决策思维课.md",
+    "score": 4.0,
+    "mtime": "2025-12-01",
+    "tags": [
+      "护城河理论",
+      "复利效应",
+      "反向思考",
+      "多元思维模型",
+      "行为优势"
+    ]
+  },
+  {
     "bookName": "苏格拉底的申辩",
     "doubanUrl": "https://book.douban.com/subject/35407013/",
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/苏格拉底的申辩.jpg",
@@ -1122,6 +1122,17 @@
     ]
   },
   {
+    "bookName": "酒吧长谈",
+    "doubanUrl": "https://book.douban.com/subject/34933180/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/酒吧长谈.jpg",
+    "cate_level1": "文学作品",
+    "cate_leaf": "国外",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国外/酒吧长谈.md",
+    "score": 4.0,
+    "mtime": "2026-04-11",
+    "tags": []
+  },
+  {
     "bookName": "人类群星闪耀时",
     "doubanUrl": "https://book.douban.com/subject/34434342/",
     "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/人类群星闪耀时.jpg",
@@ -1391,6 +1402,23 @@
       "土地改革",
       "六道轮回",
       "家族兴衰"
+    ]
+  },
+  {
+    "bookName": "遥远的救世主",
+    "doubanUrl": "https://book.douban.com/subject/1322455/",
+    "bookCover": "https://raw.githubusercontent.com/funloss/funKnowledge/main/img/遥远的救世主.jpg",
+    "cate_level1": "文学作品",
+    "cate_leaf": "国内",
+    "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/文学作品/国内/遥远的救世主.md",
+    "score": 4.0,
+    "mtime": "2026-04-11",
+    "tags": [
+      "商战谋略",
+      "人性试炼",
+      "文化属性",
+      "天道规律",
+      "弱势文化"
     ]
   },
   {
@@ -1668,7 +1696,13 @@
     "githubUrl": "https://github.com/funloss/funKnowledge/blob/main/读书/中国历史/真事隐.md",
     "score": 4.0,
     "mtime": "2026-03-15",
-    "tags": []
+    "tags": [
+      "雍正篡改历史",
+      "九子夺嫡真相",
+      "康熙继承危机",
+      "满汉继承冲突",
+      "官方史料批判"
+    ]
   },
   {
     "bookName": "暮日耀光 ： 张居正与明代中后期政局",
